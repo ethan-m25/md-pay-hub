@@ -1,10 +1,16 @@
 {
-  "generated": "2026-05-21",
+  "generated": "2026-05-22",
   "categories": {
     "Engineering": {
       "cat_median": 142450,
-      "n_jobs": 126,
+      "n_jobs": 127,
       "skills": [
+        {
+          "skill": "security",
+          "median": 280750,
+          "n": 2,
+          "dev": 97.1
+        },
         {
           "skill": "communication",
           "median": 168591,
@@ -16,17 +22,24 @@
     "Management": {
       "cat_median": 213000,
       "n_jobs": 19,
-      "skills": []
+      "skills": [
+        {
+          "skill": "cross_functional_collaboration",
+          "median": 333750,
+          "n": 2,
+          "dev": 56.7
+        }
+      ]
     },
     "Product": {
       "cat_median": 225500,
-      "n_jobs": 16,
+      "n_jobs": 17,
       "skills": [
         {
-          "skill": "governance",
-          "median": 213250,
-          "n": 2,
-          "dev": -5.4
+          "skill": "security",
+          "median": 240500,
+          "n": 3,
+          "dev": 6.7
         }
       ]
     },
@@ -36,13 +49,13 @@
       "skills": []
     },
     "Other": {
-      "cat_median": 130200,
-      "n_jobs": 53,
+      "cat_median": 126800,
+      "n_jobs": 55,
       "skills": []
     },
     "Data & Analytics": {
-      "cat_median": 126800,
-      "n_jobs": 43,
+      "cat_median": 133650,
+      "n_jobs": 44,
       "skills": []
     },
     "Design": {
