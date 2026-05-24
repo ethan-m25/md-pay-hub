@@ -1,22 +1,10 @@
 {
-  "generated": "2026-05-23",
+  "generated": "2026-05-24",
   "categories": {
     "Engineering": {
       "cat_median": 142450,
       "n_jobs": 131,
       "skills": [
-        {
-          "skill": "security",
-          "median": 280750,
-          "n": 2,
-          "dev": 97.1
-        },
-        {
-          "skill": "communication",
-          "median": 168591,
-          "n": 2,
-          "dev": 18.4
-        },
         {
           "skill": "problem_solving",
           "median": 168591,
@@ -34,18 +22,19 @@
     "Management": {
       "cat_median": 213750,
       "n_jobs": 22,
-      "skills": []
+      "skills": [
+        {
+          "skill": "compliance",
+          "median": 333750,
+          "n": 2,
+          "dev": 56.1
+        }
+      ]
     },
     "Product": {
       "cat_median": 225500,
       "n_jobs": 17,
       "skills": [
-        {
-          "skill": "security",
-          "median": 225250,
-          "n": 2,
-          "dev": -0.1
-        },
         {
           "skill": "product_management",
           "median": 225250,
@@ -53,7 +42,7 @@
           "dev": -0.1
         },
         {
-          "skill": "governance",
+          "skill": "compliance",
           "median": 213250,
           "n": 2,
           "dev": -5.4
