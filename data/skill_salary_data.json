@@ -1,12 +1,12 @@
 {
-  "generated": "2026-05-24",
+  "generated": "2026-05-25",
   "categories": {
     "Engineering": {
       "cat_median": 142450,
       "n_jobs": 131,
       "skills": [
         {
-          "skill": "problem_solving",
+          "skill": "communication",
           "median": 168591,
           "n": 2,
           "dev": 18.4
@@ -24,7 +24,7 @@
       "n_jobs": 22,
       "skills": [
         {
-          "skill": "compliance",
+          "skill": "cross_functional_collaboration",
           "median": 333750,
           "n": 2,
           "dev": 56.1
@@ -42,7 +42,7 @@
           "dev": -0.1
         },
         {
-          "skill": "compliance",
+          "skill": "security",
           "median": 213250,
           "n": 2,
           "dev": -5.4
