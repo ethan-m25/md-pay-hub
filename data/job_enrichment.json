@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-26T09:29:24.843355+00:00",
-    "total_jobs": 301,
-    "enriched": 19
+    "built_at": "2026-05-27T09:31:17.669345+00:00",
+    "total_jobs": 383,
+    "enriched": 26
   },
   "jobs": {
     "backend-senior-softw-vanta-69274912": {
@@ -432,6 +432,166 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "market-manager--dela-aledade-50330595": {
+      "summary": "Market Managers drive transformational change in healthcare markets by implementing strategic initiatives that improve clinical quality and cost efficiency while meeting patient outcome targets.",
+      "key_skills": [
+        "project management",
+        "value-based care",
+        "practice transformation",
+        "quality improvement",
+        "cost efficiency",
+        "strategic planning",
+        "healthcare analytics",
+        "accountability"
+      ],
+      "core_skills": [
+        "project management",
+        "value-based care",
+        "practice transformation",
+        "strategic planning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "risk-based-asset-man-skywarditsoluti-50330595": {
+      "summary": "Lead the integrated RBAM practice across Vulnerability Management, Configuration Management, and Database Management, aligning effort with USCIS business priorities and risk tolerance.",
+      "key_skills": [
+        "rbam",
+        "vulnerability_management",
+        "configuration_management",
+        "database_management",
+        "splunk",
+        "cisa",
+        "nvd",
+        "cvss"
+      ],
+      "core_skills": [
+        "configuration_management",
+        "vulnerability_management",
+        "cisa",
+        "nvd"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "senior-data-scientis-skywarditsoluti-50330595": {
+      "summary": "Lead end-to-end data science experiments including data readiness assessments, graph analytics, entity resolution, and unstructured data enrichment while ensuring reproducibility and statistical rigor.",
+      "key_skills": [
+        "data science",
+        "graph analytics",
+        "entity resolution",
+        "unstructured data",
+        "anomaly detection",
+        "interpretability",
+        "probabilistic modeling",
+        "statistical maturity"
+      ],
+      "core_skills": [
+        "graph analytics",
+        "entity resolution",
+        "unstructured data",
+        "statistical maturity"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "applicant-services-r-latitudeinc-50330595": {
+      "summary": "Provides exceptional customer service to applicants via phone, email, and other channels, guiding them through the application process, reviewing documentation for compliance, and ensuring accurate record-keeping.",
+      "key_skills": [
+        "customer service",
+        "application review",
+        "documentation verification",
+        "attention to detail",
+        "confidential data handling",
+        "communication",
+        "problem solving"
+      ],
+      "core_skills": [
+        "customer service & client support",
+        "application review and processing",
+        "documentation verification",
+        "attention to detail"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "ehs-manager-latitudeinc-50330595": {
+      "summary": "The Site EHS Manager develops, implements, and monitors company environmental health and safety programs to ensure compliance with regulations and fosters a safety culture through audits, training, and coaching.",
+      "key_skills": [
+        "ehealth",
+        "safety",
+        "compliance",
+        "regulations",
+        "environmental",
+        "sustainability",
+        "risk",
+        "audits"
+      ],
+      "core_skills": [
+        "compliance",
+        "sustainability",
+        "risk",
+        "audits"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "oracle-ebs-functiona-latitudeinc-50330595": {
+      "summary": "Serves as functional lead for Oracle EBS financial modules supporting federal invoicing integration, leading requirements gathering, configuration, and compliance with Treasury mandates.",
+      "key_skills": [
+        "oracle ebs",
+        "functional expert",
+        "federal financial systems",
+        "accounts receivable",
+        "accounts payable",
+        "general ledger",
+        "purchasing",
+        "projects"
+      ],
+      "core_skills": [
+        "federal financial compliance",
+        "oracle ebs configuration",
+        "interagency transactions",
+        "audit readiness"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "qa-automation-engine-latitudeinc-50330595": {
+      "summary": "qa automation engineer designs, develops, and maintains automated test scripts for ui testing using tools like selenium, cypress, or similar, ensuring continuous testing for security, api, and regression suites while integrating tests into ci/cd pipelines",
+      "key_skills": [
+        "qa automation",
+        "selenium",
+        "cypress",
+        "playwright",
+        "puppeteer",
+        "java",
+        "agile testing",
+        "ci/cd"
+      ],
+      "core_skills": [
+        "qa automation",
+        "selenium",
+        "cypress",
+        "java"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     }
   }
 }

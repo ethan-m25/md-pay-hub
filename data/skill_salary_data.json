@@ -1,18 +1,18 @@
 {
-  "generated": "2026-05-26",
+  "generated": "2026-05-27",
   "categories": {
     "Engineering": {
       "cat_median": 142450,
-      "n_jobs": 131,
+      "n_jobs": 154,
       "skills": [
         {
-          "skill": "problem_solving",
+          "skill": "cloud",
           "median": 168591,
           "n": 2,
           "dev": 18.4
         },
         {
-          "skill": "cloud",
+          "skill": "communication",
           "median": 168591,
           "n": 2,
           "dev": 18.4
@@ -20,14 +20,26 @@
       ]
     },
     "Management": {
-      "cat_median": 213750,
-      "n_jobs": 22,
+      "cat_median": 165000,
+      "n_jobs": 33,
       "skills": [
         {
           "skill": "cross_functional_collaboration",
           "median": 333750,
           "n": 2,
-          "dev": 56.1
+          "dev": 102.3
+        },
+        {
+          "skill": "compliance",
+          "median": 302500,
+          "n": 3,
+          "dev": 83.3
+        },
+        {
+          "skill": "risk",
+          "median": 221250,
+          "n": 2,
+          "dev": 34.1
         }
       ]
     },
@@ -36,13 +48,13 @@
       "n_jobs": 17,
       "skills": [
         {
-          "skill": "product_management",
-          "median": 225250,
-          "n": 2,
-          "dev": -0.1
+          "skill": "security",
+          "median": 240500,
+          "n": 3,
+          "dev": 6.7
         },
         {
-          "skill": "governance",
+          "skill": "compliance",
           "median": 213250,
           "n": 2,
           "dev": -5.4
@@ -55,23 +67,30 @@
       "skills": []
     },
     "Other": {
-      "cat_median": 128500,
-      "n_jobs": 56,
-      "skills": []
+      "cat_median": 125000,
+      "n_jobs": 90,
+      "skills": [
+        {
+          "skill": "attention to detail",
+          "median": 91250,
+          "n": 2,
+          "dev": -27.0
+        }
+      ]
     },
     "Data & Analytics": {
       "cat_median": 126800,
-      "n_jobs": 45,
+      "n_jobs": 47,
       "skills": []
     },
     "Design": {
-      "cat_median": 158000,
-      "n_jobs": 3,
+      "cat_median": 142250,
+      "n_jobs": 4,
       "skills": []
     },
     "Finance": {
-      "cat_median": 144912,
-      "n_jobs": 2,
+      "cat_median": 91500,
+      "n_jobs": 8,
       "skills": []
     }
   }
