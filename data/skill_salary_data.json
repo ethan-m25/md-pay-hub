@@ -1,75 +1,123 @@
 {
-  "generated": "2026-05-27",
+  "generated": "2026-05-28",
   "categories": {
     "Engineering": {
-      "cat_median": 142450,
-      "n_jobs": 154,
+      "cat_median": 162000,
+      "n_jobs": 323,
       "skills": [
+        {
+          "skill": "security",
+          "median": 280750,
+          "n": 2,
+          "dev": 73.3
+        },
+        {
+          "skill": "react",
+          "median": 244250,
+          "n": 2,
+          "dev": 50.8
+        },
+        {
+          "skill": "saml",
+          "median": 193500,
+          "n": 2,
+          "dev": 19.4
+        },
+        {
+          "skill": "authentication",
+          "median": 193500,
+          "n": 2,
+          "dev": 19.4
+        },
         {
           "skill": "cloud",
           "median": 168591,
           "n": 2,
-          "dev": 18.4
+          "dev": 4.1
         },
         {
-          "skill": "communication",
-          "median": 168591,
+          "skill": "ci/cd",
+          "median": 118750,
           "n": 2,
-          "dev": 18.4
+          "dev": -26.7
         }
       ]
     },
     "Management": {
-      "cat_median": 165000,
-      "n_jobs": 33,
+      "cat_median": 177300,
+      "n_jobs": 108,
       "skills": [
         {
           "skill": "cross_functional_collaboration",
           "median": 333750,
           "n": 2,
-          "dev": 102.3
-        },
-        {
-          "skill": "compliance",
-          "median": 302500,
-          "n": 3,
-          "dev": 83.3
-        },
-        {
-          "skill": "risk",
-          "median": 221250,
-          "n": 2,
-          "dev": 34.1
+          "dev": 88.2
         }
       ]
     },
     "Product": {
-      "cat_median": 225500,
-      "n_jobs": 17,
+      "cat_median": 214350,
+      "n_jobs": 40,
       "skills": [
         {
-          "skill": "security",
-          "median": 240500,
+          "skill": "product management",
+          "median": 215000,
           "n": 3,
-          "dev": 6.7
+          "dev": 0.3
         },
         {
-          "skill": "compliance",
+          "skill": "scalable systems",
+          "median": 215000,
+          "n": 2,
+          "dev": 0.3
+        },
+        {
+          "skill": "strategic execution",
+          "median": 215000,
+          "n": 2,
+          "dev": 0.3
+        },
+        {
+          "skill": "api design",
+          "median": 215000,
+          "n": 2,
+          "dev": 0.3
+        },
+        {
+          "skill": "system reliability",
+          "median": 215000,
+          "n": 2,
+          "dev": 0.3
+        },
+        {
+          "skill": "platform product thinking",
+          "median": 215000,
+          "n": 2,
+          "dev": 0.3
+        },
+        {
+          "skill": "security",
           "median": 213250,
           "n": 2,
-          "dev": -5.4
+          "dev": -0.5
         }
       ]
     },
     "Operations": {
-      "cat_median": 149125,
-      "n_jobs": 10,
+      "cat_median": 141450,
+      "n_jobs": 23,
       "skills": []
     },
     "Other": {
       "cat_median": 125000,
-      "n_jobs": 90,
+      "n_jobs": 169,
       "skills": [
+        {
+          "skill": "strategic",
+          "median": 286300,
+          "n": 2,
+          "dev": 129.0
+        },
         {
           "skill": "attention to detail",
           "median": 91250,
@@ -80,7 +128,7 @@
     },
     "Data & Analytics": {
       "cat_median": 126800,
-      "n_jobs": 47,
+      "n_jobs": 78,
       "skills": []
     },
     "Design": {
@@ -89,8 +137,13 @@
       "skills": []
     },
     "Finance": {
-      "cat_median": 91500,
-      "n_jobs": 8,
+      "cat_median": 110000,
+      "n_jobs": 11,
+      "skills": []
+    },
+    "Sales": {
+      "cat_median": 100000,
+      "n_jobs": 11,
       "skills": []
     }
   }

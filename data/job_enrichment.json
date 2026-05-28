@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-05-27T09:31:17.669345+00:00",
-    "total_jobs": 383,
-    "enriched": 26
+    "built_at": "2026-05-28T10:35:40.780553+00:00",
+    "total_jobs": 800,
+    "enriched": 37
   },
   "jobs": {
     "backend-senior-softw-vanta-69274912": {
@@ -592,6 +592,247 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "senior-customer-camp-lattice-64108343": {
+      "summary": "Lattice is hiring for a role that requires quick registration to secure seats for Lattiverse 2026",
+      "key_skills": [
+        "lattice",
+        "lattice"
+      ],
+      "core_skills": [
+        "lattice"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "senior-software-engi-lattice-64108343": {
+      "summary": "Lattice is hiring for a role that requires quick registration to secure seats for Lattiverse 2026",
+      "key_skills": [
+        "lattice",
+        "lattice"
+      ],
+      "core_skills": [
+        "lattice"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "compliance-analyst-i-affirm-64108343": {
+      "summary": "Compliance Analyst II reviews consumer complaints, investigates operational issues, and ensures adherence to federal and state regulations through proactive risk mitigation and process improvements.",
+      "key_skills": [
+        "compliance",
+        "regulatory",
+        "risk",
+        "consumer",
+        "credit",
+        "fraud",
+        "financial",
+        "fintech"
+      ],
+      "core_skills": [
+        "compliance",
+        "regulatory",
+        "risk",
+        "consumer"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "key-accounts-account-affirm-64108343": {
+      "summary": "Key Account Executive drives growth by leading high-impact sales efforts with Fortune 500 retailers, managing complex deals, and shaping buy now, pay later partnerships.",
+      "key_skills": [
+        "sales",
+        "enterprise",
+        "fintech",
+        "retail",
+        "bnpl",
+        "strategic",
+        "partnerships",
+        "negotiation"
+      ],
+      "core_skills": [
+        "sales",
+        "enterprise",
+        "fintech",
+        "retail"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-ciam-software-affirm-64108343": {
+      "summary": "Builds and operates backend services for customer registration, authentication, authorization, and account lifecycle flows across B2C and B2B platforms with strong security fundamentals.",
+      "key_skills": [
+        "ciam",
+        "oauth",
+        "oidc",
+        "saml",
+        "scim",
+        "python",
+        "kotlin",
+        "infrastructure-as-code",
+        "ci/cd",
+        "cloud-native",
+        "mfa",
+        "authentication",
+        "authorization",
+        "account-lifecycle"
+      ],
+      "core_skills": [
+        "ciam",
+        "oauth",
+        "oidc",
+        "saml"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-product-manag-affirm-64108343": {
+      "summary": "Senior Product Manager leads foundational platform capabilities for financial systems, driving scalability and reliability while enabling cross-functional integrations.",
+      "key_skills": [
+        "product management",
+        "platform strategy",
+        "api design",
+        "data systems",
+        "scalable systems",
+        "financial workflows",
+        "system reliability",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "platform product thinking",
+        "technical fluency",
+        "strategic execution",
+        "cross-functional leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "credit-risk-senior-a-marqeta-64108343": {
+      "summary": "Lead underwriting strategy for credit programs, develop data-driven credit strategies, and manage consumer and SMB credit card portfolios to minimize losses and enhance profitability.",
+      "key_skills": [
+        "credit risk analysis",
+        "statistical modeling",
+        "sql",
+        "machine learning",
+        "data analysis",
+        "portfolio management",
+        "regulatory compliance",
+        "risk segmentation"
+      ],
+      "core_skills": [
+        "credit risk analysis",
+        "statistical modeling",
+        "sql",
+        "machine learning"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "sales-enablement-ass-marqeta-64108343": {
+      "summary": "The Sales Enablement Associate creates high-quality content to help sellers, partner managers, and solution consultants articulate Marqeta’s value with clarity and confidence.",
+      "key_skills": [
+        "sales enablement",
+        "content creation",
+        "technical translation",
+        "fintech",
+        "api",
+        "card issuing",
+        "fraud controls",
+        "embedded finance"
+      ],
+      "core_skills": [
+        "content creation",
+        "technical translation",
+        "fintech",
+        "sales enablement"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "senior-product-desig-vercel-64108343": {
+      "summary": "Senior Product Designer works across the product to design thoughtful, system-based solutions for complex customer problems and build remarkable software interfaces.",
+      "key_skills": [
+        "product design",
+        "ui",
+        "interaction design",
+        "design system",
+        "financial infrastructure",
+        "web development",
+        "javascript",
+        "git"
+      ],
+      "core_skills": [
+        "design process",
+        "collaboration",
+        "communication",
+        "problem solving"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "site-engineer-vercel-64108343": {
+      "summary": "Fullstack Engineer responsible for building high-performing web experiences to drive user acquisition, conversion, and retention through A/B testing and optimization of conversion funnels.",
+      "key_skills": [
+        "react",
+        "javascript",
+        "nextjs",
+        "tailwindcss",
+        "abtesting",
+        "conversionoptimization",
+        "seo",
+        "ux"
+      ],
+      "core_skills": [
+        "nextjs",
+        "javascript",
+        "react",
+        "abtesting"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "head-of-customer-ai--asana-64108343": {
+      "summary": "Operational leader for Asana’s AI Transformation Factory, evolving post-sales organization into an AI-activation model by redesigning customer success, renewal, and services teams to drive AI product adoption and revenue growth.",
+      "key_skills": [
+        "ai",
+        "customer",
+        "transformation",
+        "product",
+        "engineering",
+        "revenue",
+        "customer_success",
+        "renewal"
+      ],
+      "core_skills": [
+        "strategic",
+        "operational",
+        "cross_functional",
+        "leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     }
   }
 }
