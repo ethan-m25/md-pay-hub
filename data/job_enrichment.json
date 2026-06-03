@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-01T12:05:46.347249+00:00",
-    "total_jobs": 919,
-    "enriched": 666
+    "built_at": "2026-06-03T11:44:59.145839+00:00",
+    "total_jobs": 950,
+    "enriched": 690
   },
   "jobs": {
     "narrative-and-projec-the-baltimore-b-28696025": {
@@ -227,6 +227,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "design-recruiter-vanta-69274912": {
+      "summary": "Owns full-cycle recruiting for Vanta’s Design organization, including sourcing, assessing, and closing top-tier design talent while ensuring exceptional candidate experience.",
+      "key_skills": [
+        "design",
+        "recruiting",
+        "talent",
+        "strategy",
+        "portfolio",
+        "assessment",
+        "candidate",
+        "experience"
+      ],
+      "core_skills": [
+        "design_recruiting",
+        "talent_sourcing",
+        "candidate_experience",
+        "data_driven"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "director--account-ma-vanta-69274912": {
       "summary": "Directs upmarket account management strategy and team to drive customer retention and expansion in commercial and enterprise segments through GRC program implementation.",
       "key_skills": [
@@ -362,6 +385,29 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "field-marketing-mana-vanta-69274913": {
+      "summary": "Owns regional field marketing strategy and execution to drive pipeline, accelerate deals, and partner with sales leadership for high-impact regional programs.",
+      "key_skills": [
+        "field marketing",
+        "regional strategy",
+        "pipeline generation",
+        "sales partnership",
+        "event execution",
+        "program optimization",
+        "data-driven",
+        "cross-functional collaboration"
+      ],
+      "core_skills": [
+        "regional marketing strategy",
+        "pipeline ownership",
+        "sales partnership",
+        "event execution"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "group-product-manage-vanta-69274913": {
       "summary": "Owns product strategy and outcomes across product groups to drive customer retention, expansion, and competitive differentiation while leading and developing product teams.",
@@ -771,6 +817,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-manager--engi-vanta-69274913": {
+      "summary": "Senior Manager of Engineering Recruiting leads a high-performing team of technical recruiters to build and refine recruiting strategies for engineering roles, partner with engineering leadership to shape talent strategy, and deliver exceptional hiring outcomes that support Vanta’s product roadmap and growth.",
+      "key_skills": [
+        "recruiting",
+        "engineering",
+        "technical",
+        "hiring",
+        "full-cycle",
+        "talent",
+        "strategy",
+        "leadership"
+      ],
+      "core_skills": [
+        "technical_recruiting",
+        "hiring_outcomes",
+        "data_driven",
+        "operational_excellence"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-manager--peop-vanta-69274913": {
       "summary": "unknown",
       "key_skills": [],
@@ -915,6 +984,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-product-enabl-vanta-69274913": {
+      "summary": "Designs and delivers product enablement programs to translate product strategy into field readiness, drive adoption, and impact revenue outcomes for Vanta's customers.",
+      "key_skills": [
+        "product enablement",
+        "curriculum design",
+        "training content",
+        "lms",
+        "content management",
+        "knowledge base",
+        "gcr",
+        "ai"
+      ],
+      "core_skills": [
+        "curriculum design",
+        "data-driven mindset",
+        "cross-functional collaboration",
+        "customer-first mindset"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-product-manag-vanta-69274913": {
       "summary": "Owns the product vision, strategy, and roadmap for Vanta's Personnel product, focusing on AI-enabled compliance and people data management to ensure accurate system of record and proactive risk mitigation.",
       "key_skills": [
@@ -937,6 +1029,15 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
+    },
+    "senior-salesforce-ad-vanta-69274913": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "senior-software-engi-vanta-69274913": {
       "summary": "Designs and builds scalable infrastructure to support rapid growth while ensuring security and reliability for Vanta's core systems.",
@@ -1396,6 +1497,52 @@
       "role_type": "unknown",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "cx-programs-sr--asso-headway-69274913": {
+      "summary": "Senior Associate on CX Programs team shapes and improves customer experience by translating customer needs into actionable processes, driving CX improvements through data and AI tools, and collaborating cross-functionally to enhance satisfaction metrics.",
+      "key_skills": [
+        "customer_experience",
+        "kpi_analysis",
+        "process_improvement",
+        "ai_tools",
+        "data_insights",
+        "cross_functional_collaboration",
+        "csat",
+        "ttr"
+      ],
+      "core_skills": [
+        "customer_centricity",
+        "end_to_end_project_ownership",
+        "root_cause_analysis",
+        "ai_enhancement"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
+    "cx-systems-lead-headway-69274913": {
+      "summary": "Owns the platform behind Headway's customer experience, configuring and evolving voice and chat systems, deploying AI tools for agents, and scaling CX tech stacks to support millions of patients.",
+      "key_skills": [
+        "cx",
+        "ai",
+        "voice",
+        "routing",
+        "configuration",
+        "operationalization",
+        "analytics",
+        "scaling"
+      ],
+      "core_skills": [
+        "ai-native",
+        "operational-mindset",
+        "analytical-solver",
+        "ambiguity-handling"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
     },
     "director--business-o-headway-69274913": {
       "summary": "The Director, Business Operations for the Patient Group drives operational excellence and strategic partnerships to connect patients with mental health care while scaling patient acquisition and ensuring high-impact outcomes.",
@@ -1920,6 +2067,15 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "data-scientist--mid-booz-allen-hami-05550673": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "data-scientist-booz-allen-hami-05550673": {
       "summary": "Data scientist works with clients to analyze data-rich environments, develop algorithms and systems, and provide insights to inform client decisions.",
       "key_skills": [
@@ -2247,6 +2403,29 @@
       ],
       "work_mode_derived": "hybrid"
     },
+    "capability-developme-booz-allen-hami-05550673": {
+      "summary": "Supports full project lifecycles as a senior CNO Capability Developer, guiding agile teams to lead capability development in fast-paced operational environments using AI and machine learning.",
+      "key_skills": [
+        "c",
+        "c++",
+        "rust",
+        "python",
+        "linux",
+        "agile",
+        "devsecops",
+        "jira"
+      ],
+      "core_skills": [
+        "linux exploitation",
+        "vulnerability analysis",
+        "capability development",
+        "ai/ml integration"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "embedded-software-en-booz-allen-hami-05550673": {
       "summary": "Lead embedded software engineer overseeing a team that develops systems, sites, and tools for clients, responsible for writing, testing, and optimizing code while ensuring software security and hardware functionality.",
       "key_skills": [
@@ -2399,6 +2578,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "human-resources-manp-booz-allen-hami-05550673": {
+      "summary": "Conducts personnel plans and policy analysis, program management support, and planning for federal government workforce transformation, including drafting billet change requests and updating workforce trackers.",
+      "key_skills": [
+        "business process reengineering",
+        "configuration management",
+        "quality control",
+        "quality assurance",
+        "organizational performance assessments",
+        "mission analysis",
+        "strategic planning",
+        "workforce staffing administration"
+      ],
+      "core_skills": [
+        "military hr management",
+        "billet change requests",
+        "total force manpower management system",
+        "cyberspace missions"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "capability-requireme-booz-allen-hami-05550673": {
       "summary": "unknown",
       "key_skills": [],
@@ -2437,6 +2639,15 @@
       ],
       "seniority_signal": "lead",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "logistics-supply-spe-booz-allen-hami-05550673": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
@@ -3661,6 +3872,15 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "mission-systems-inte-booz-allen-hami-05550673": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "network-engineer--se-booz-allen-hami-05550673": {
       "summary": "Senior network engineer designs, builds, and evolves reliable networks for critical missions, collaborating with stakeholders to meet strategic goals and operational needs through network component planning and maintenance.",
       "key_skills": [
@@ -3902,6 +4122,15 @@
       "work_mode_derived": "onsite"
     },
     "logistics-engineer-a-booz-allen-hami-05550674": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "travel-specialist-booz-allen-hami-05550674": {
       "summary": "unknown",
       "key_skills": [],
       "core_skills": [],
@@ -4198,6 +4427,29 @@
       "role_type": "unknown",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "network-specialist-booz-allen-hami-05550674": {
+      "summary": "Monitors network administration and maintenance operations, manages network design evolution, resolves network incidents, and mentors team members while supporting communication systems.",
+      "key_skills": [
+        "network administration",
+        "network maintenance",
+        "network design",
+        "network incident resolution",
+        "network modeling",
+        "network simulation",
+        "network performance testing",
+        "network troubleshooting"
+      ],
+      "core_skills": [
+        "network configuration",
+        "firewall management",
+        "vpn",
+        "intrusion detection system"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "cyber-intelligence-a-booz-allen-hami-05550674": {
       "summary": "unknown",
@@ -4675,6 +4927,28 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "cross-domain-solutio-booz-allen-hami-05550674": {
+      "summary": "Designs and develops DoD afloat network systems while evolving them with advanced technology solutions to support national security missions.",
+      "key_skills": [
+        "cybersecurity engineering",
+        "systems engineering",
+        "cross-domain technologies",
+        "radiant mercury",
+        "secure operating system trusted thin client",
+        "forcepoint trusted thin client",
+        "zero trust architecture",
+        "data loss prevention"
+      ],
+      "core_skills": [
+        "network security",
+        "secure protocols",
+        "boundary defense architectures"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "manager--grc-subject-vanta-55917616": {
       "summary": "Manages GRC Product Subject Matter Experts team to develop and maintain security frameworks, compliance content, and testing processes for diverse customer needs.",
       "key_skills": [
@@ -4756,6 +5030,15 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "databricks-engineer-booz-allen-hami-42308994": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
     },
     "quality-assurance-le-headway-42308994": {
       "summary": "Owns end-to-end quality assurance program areas including calibration, AI analytics, and partner oversight to improve customer experience through data-driven insights and actionable recommendations.",
@@ -8899,29 +9182,6 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
-    "team-lead--market-op-carvana-64108343": {
-      "summary": "Team Lead manages local Carvana hub operations including market launches, logistics, customer experience, and team development while ensuring high performance in a fast-paced environment.",
-      "key_skills": [
-        "market operations",
-        "customer experience",
-        "logistics",
-        "team leadership",
-        "process improvement",
-        "strategic planning",
-        "sales",
-        "customer advocacy"
-      ],
-      "core_skills": [
-        "team leadership",
-        "customer experience",
-        "logistics",
-        "process improvement"
-      ],
-      "seniority_signal": "senior",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
     "inside-account-execu-toast-64108343": {
       "summary": "Generates list of prospective restaurants and manages the entire sales cycle from initial call to close, conducting demos and developing customized solutions for restaurateurs.",
       "key_skills": [
@@ -8978,6 +9238,29 @@
         "design"
       ],
       "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "senior-application-s-brex-64108343": {
+      "summary": "Senior Application Security Engineer focuses on identifying and responding to security vulnerabilities across the Brex platform through code reviews, design reviews, penetration testing, and vulnerability management while developing tooling for static and dynamic testing.",
+      "key_skills": [
+        "application security",
+        "penetration testing",
+        "vulnerability management",
+        "code reviews",
+        "design reviews",
+        "static testing",
+        "dynamic testing",
+        "tooling development"
+      ],
+      "core_skills": [
+        "penetration testing",
+        "vulnerability management",
+        "code reviews",
+        "design reviews"
+      ],
+      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -9445,52 +9728,6 @@
       ],
       "seniority_signal": "senior",
       "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "customer-support-ass-betterment-64108343": {
-      "summary": "This person works on data analysis and machine learning models to improve financial products and services.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "data_science",
-        "big_data",
-        "cloud_computing"
-      ],
-      "core_skills": [
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "strategic-sales-mana-betterment-64108343": {
-      "summary": "This person works on data analysis and machine learning models to improve financial products and services.",
-      "key_skills": [
-        "python",
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql",
-        "data_science",
-        "big_data",
-        "cloud_computing"
-      ],
-      "core_skills": [
-        "data_analysis",
-        "machine_learning",
-        "statistics",
-        "sql"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
     },
@@ -10170,6 +10407,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "-usa--facilities-mai-walmart-inc--64108344": {
+      "summary": "Oversees predictive and preventative maintenance of facilities, leads technicians, ensures building efficiency and safety, and manages contractor licenses and compliance.",
+      "key_skills": [
+        "facilities maintenance",
+        "mechanical maintenance",
+        "preventative maintenance",
+        "predictive maintenance",
+        "contractor license",
+        "electrical",
+        "plumbing",
+        "mechanical"
+      ],
+      "core_skills": [
+        "leadership",
+        "problem solving",
+        "communication",
+        "interpersonal skills"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "hybrid"
+    },
     "-usa--stocking-2-coa-wal-mart-stores-64108344": {
       "summary": "unknown",
       "key_skills": [],
@@ -10224,6 +10484,26 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
+    },
+    "siu-senior-analyst---aetna-medicaid--64108344": {
+      "summary": "The SIU Senior Analyst, Investigator reviews incoming referrals to validate fraud, waste, and abuse business rules by analyzing claim data and identifying outliers through data extraction and analysis.",
+      "key_skills": [
+        "data extraction",
+        "data analysis",
+        "fraud detection",
+        "medical claims coding",
+        "healthcare analytics",
+        "claim data interpretation"
+      ],
+      "core_skills": [
+        "data analysis",
+        "fraud detection",
+        "medical claims coding"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
     },
     "market-financial-cen-94-1687665-bank-64108344": {
       "summary": "Supports financial centers in designated markets as a backup leader, manages client traffic and retention, and drives operational excellence.",
@@ -10572,6 +10852,29 @@
       ],
       "seniority_signal": "principal",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager-embedded-sof-corp-corporate--64108344": {
+      "summary": "Manages software development teams to deliver software solutions while ensuring compliance with internal software development and agile development plans.",
+      "key_skills": [
+        "embedded software",
+        "software architecture",
+        "agile development",
+        "linux",
+        "vxworks",
+        "sonarqube",
+        "klocwork",
+        "gitlab"
+      ],
+      "core_skills": [
+        "software architecture",
+        "agile development",
+        "linux",
+        "vxworks"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -11291,6 +11594,29 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "flight-test-tech-3-4-corp-corporate--64108344": {
+      "summary": "Performs developmental, experimental and production aircraft maintenance, repair, modification, installation, and testing tasks in a field of specialization; electrical / electronic, mechanical or instrumentation.",
+      "key_skills": [
+        "flight test",
+        "aircraft maintenance",
+        "electrical",
+        "mechanical",
+        "instrumentation",
+        "repair",
+        "testing",
+        "modification"
+      ],
+      "core_skills": [
+        "aircraft maintenance",
+        "electrical",
+        "mechanical",
+        "instrumentation"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "microelectronics-pac-corp-corporate--64108344": {
       "summary": "The candidate independently leads mechanical design, analysis, integration, and testing for RF and electro-optical aperture designs supporting high-profile satellite programs.",
       "key_skills": [
@@ -11991,6 +12317,29 @@
         "process_robustness",
         "compliance_audit",
         "root_cause_analysis"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "configuration-manage-corp-corporate--64108344": {
+      "summary": "Oversees strategic governance of sector principles and operating practices, manages configuration of all processes, and identifies improvement opportunities to boost efficiency and rigor.",
+      "key_skills": [
+        "configuration management",
+        "process management",
+        "continuous improvement",
+        "governance",
+        "policy",
+        "procedures",
+        "process optimization",
+        "stewardship"
+      ],
+      "core_skills": [
+        "configuration management",
+        "process management",
+        "continuous improvement",
+        "governance"
       ],
       "seniority_signal": "senior",
       "role_type": "ic",
@@ -12839,6 +13188,28 @@
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
+    "principal-technical--corp-corporate--64108345": {
+      "summary": "Writes, updates, and edits technical documents including procedures, manuals, and specifications to ensure clear communication for operators and maintainers.",
+      "key_skills": [
+        "technical writing",
+        "technical editing",
+        "technical documentation",
+        "procedures",
+        "user manuals",
+        "programming manuals",
+        "service manuals",
+        "operational specifications"
+      ],
+      "core_skills": [
+        "technical writing",
+        "technical editing",
+        "technical documentation"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "fpga-verification-en-corp-corporate--64108345": {
       "summary": "This person leads FPGA verification efforts across multiple programs, defines and implements modern verification methodologies using VUnit, and provides technical leadership and team oversight for digital subsystems and products.",
       "key_skills": [
@@ -13477,6 +13848,29 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
+    "infrastructure-partn-openai-64108345": {
+      "summary": "Owns operational delivery for major Stargate infrastructure programs across partner-operated datacenter campuses, serving as OpenAI’s primary delivery interface with strategic infrastructure partners.",
+      "key_skills": [
+        "infrastructure",
+        "delivery",
+        "partnership",
+        "operations",
+        "datacenter",
+        "compute",
+        "hardware",
+        "construction"
+      ],
+      "core_skills": [
+        "delivery leadership",
+        "partner management",
+        "cross-functional coordination",
+        "operational readiness"
+      ],
+      "seniority_signal": "lead",
+      "role_type": "manager",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "manufacturing-test-e-openai-64108345": {
       "summary": "Owns development of manufacturing test strategies, tools, and execution practices for critical AI infrastructure hardware, ensuring hardware shipped into OpenAI environments is testable, reliable, and production-ready at scale.",
       "key_skills": [
@@ -13517,6 +13911,29 @@
         "cross-functional leadership"
       ],
       "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "product-marketing-ma-openai-64108345": {
+      "summary": "Senior Product Marketing Manager shapes OpenAI's API platform narrative to drive developer and enterprise adoption while collaborating with Product, Sales, and Comms teams to execute high-impact marketing strategies.",
+      "key_skills": [
+        "product_marketing",
+        "api_platform",
+        "enterprise_adoption",
+        "developer_engagement",
+        "data_driven_strategy",
+        "competitive_analysis",
+        "market_creation",
+        "cross_functional_partnership"
+      ],
+      "core_skills": [
+        "strategic_planning",
+        "product_marketing",
+        "enterprise_sales",
+        "technical_marketing"
+      ],
+      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -13806,6 +14223,15 @@
       "work_mode_derived": "onsite"
     },
     "manufacturing-profes-corp-corporate--50342429": {
+      "summary": "unknown",
+      "key_skills": [],
+      "core_skills": [],
+      "seniority_signal": "unknown",
+      "role_type": "unknown",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
+    "systems-engineering--corp-corporate--50342429": {
       "summary": "unknown",
       "key_skills": [],
       "core_skills": [],
@@ -14285,6 +14711,23 @@
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "registered-nurse-ci-mdh-spring-grov-79489905": {
+      "summary": "Provides direct nursing care on a psychiatric ward and supervises subordinate staff as charge nurse when needed.",
+      "key_skills": [
+        "nursing",
+        "psychiatric",
+        "registered_nurse",
+        "court_involved"
+      ],
+      "core_skills": [
+        "nursing",
+        "psychiatric"
+      ],
+      "seniority_signal": "entry",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     }
   }
 }
