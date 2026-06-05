@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-04T09:05:30.609218+00:00",
-    "total_jobs": 966,
-    "enriched": 717
+    "built_at": "2026-06-05T08:56:47.759426+00:00",
+    "total_jobs": 984,
+    "enriched": 723
   },
   "jobs": {
     "narrative-and-projec-the-baltimore-b-28696025": {
@@ -4431,6 +4431,31 @@
       "role_type": "unknown",
       "red_flags": [],
       "work_mode_derived": "unknown"
+    },
+    "security-engineer-booz-allen-hami-05550674": {
+      "summary": "Designs and deploys security systems to protect data and infrastructure from cyber-attacks, including firewalls, IDS/IPS, and encryption protocols.",
+      "key_skills": [
+        "elastic",
+        "security",
+        "firewall",
+        "ids",
+        "ips",
+        "encryption",
+        "penetration",
+        "audits"
+      ],
+      "core_skills": [
+        "elastic",
+        "security",
+        "firewall",
+        "ids"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [
+        "unknown"
+      ],
+      "work_mode_derived": "onsite"
     },
     "digital-network-expl-booz-allen-hami-05550674": {
       "summary": "unknown",
@@ -9666,6 +9691,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "senior-risk-manageme-grafanalabs-64108343": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
     "senior-solutions-eng-grafanalabs-64108343": {
       "summary": "Enterprise Solutions Engineers partner with sales teams to educate customers on Grafana's value proposition, deliver technical presentations, and close high-velocity opportunities through advanced competitive knowledge and technical credibility.",
       "key_skills": [
@@ -9708,6 +9756,29 @@
         "observability"
       ],
       "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "remote"
+    },
+    "strategic-cloud-part-grafanalabs-64108343": {
+      "summary": "Builds and maintains observability tools for monitoring and alerting systems",
+      "key_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana",
+        "cloud",
+        "data",
+        "metrics",
+        "observability"
+      ],
+      "core_skills": [
+        "golang",
+        "kubernetes",
+        "prometheus",
+        "grafana"
+      ],
+      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -9844,29 +9915,6 @@
         "terraform"
       ],
       "seniority_signal": "mid",
-      "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "remote"
-    },
-    "senior-pre----post-s-pendo-64108343": {
-      "summary": "Senior Customer Engineer owns strategic and complex Enterprise accounts across acquisition, implementation, adoption, expansion, and escalation, leading technical strategy for deployments, resolving ambiguous challenges, and partnering with account teams to drive retention and expansion.",
-      "key_skills": [
-        "customer engineering",
-        "technical strategy",
-        "enterprise accounts",
-        "implementation playbooks",
-        "technical escalation",
-        "adoption expansion",
-        "team capability building",
-        "ai tools"
-      ],
-      "core_skills": [
-        "customer engineering",
-        "technical strategy",
-        "enterprise accounts",
-        "implementation playbooks"
-      ],
-      "seniority_signal": "senior",
       "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "remote"
@@ -10047,6 +10095,52 @@
       "red_flags": [],
       "work_mode_derived": "hybrid"
     },
+    "director-of-account--alertus-64108344": {
+      "summary": "Directs account management team to drive customer engagement, retention, and revenue growth through strategic oversight, CRM management, and hands-on engagement with key accounts.",
+      "key_skills": [
+        "account management",
+        "customer engagement",
+        "sales execution",
+        "strategic oversight",
+        "team leadership",
+        "crm management",
+        "revenue growth",
+        "customer retention"
+      ],
+      "core_skills": [
+        "salesforce",
+        "strategic planning",
+        "customer relationship management",
+        "leadership"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "director-of-customer-alertus-64108344": {
+      "summary": "Oversees day-to-day operations of customer success team, manages customer events and programs, ensures consistent customer communication, and acts as a customer advocate to drive product adoption and retention.",
+      "key_skills": [
+        "customer success",
+        "customer engagement",
+        "customer advocacy",
+        "customer retention",
+        "customer education",
+        "product adoption",
+        "incident response",
+        "strategic initiatives"
+      ],
+      "core_skills": [
+        "problem solving",
+        "analytical acumen",
+        "communication",
+        "stakeholder management"
+      ],
+      "seniority_signal": "senior",
+      "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
     "director-of-new-mark-alertus-64108344": {
       "summary": "Directs development and execution of strategies for penetrating new markets and expanding vertical market presence while cultivating strategic industry relations with specifiers and consultants.",
       "key_skills": [
@@ -10067,6 +10161,29 @@
       ],
       "seniority_signal": "director",
       "role_type": "executive",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "electrical-engineer-alertus-64108344": {
+      "summary": "Electrical Engineer designs and prototypes embedded electronic solutions for mass emergency notification systems, collaborating with cross-functional teams to ensure product reliability and scalability.",
+      "key_skills": [
+        "electrical engineering",
+        "embedded systems",
+        "pcb design",
+        "analog design",
+        "digital design",
+        "firmware development",
+        "lcd displays",
+        "low power design"
+      ],
+      "core_skills": [
+        "schematic capture",
+        "multilayer pcb design",
+        "controlled impedance",
+        "mixed voltage systems"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -10159,6 +10276,29 @@
       ],
       "seniority_signal": "lead",
       "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
+    },
+    "manager--hardware-en-alertus-64108344": {
+      "summary": "Manages a small team of hardware engineers to design, prototype, and document life safety solutions while ensuring product readiness for production.",
+      "key_skills": [
+        "hardware engineering",
+        "pcb design",
+        "embedded firmware",
+        "electrical design",
+        "analog design",
+        "digital design",
+        "multilayer pcb",
+        "controlled impedance"
+      ],
+      "core_skills": [
+        "hardware engineering",
+        "pcb design",
+        "embedded firmware",
+        "elect. design"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
     },
@@ -10634,6 +10774,29 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "hybrid"
+    },
+    "-usa--gm-coach--non--wal-mart-stores-64108344": {
+      "summary": "Leads and develops teams by teaching training and actively listening to associates while driving financial performance and customer service excellence through store operations and process improvements.",
+      "key_skills": [
+        "leadership",
+        "training",
+        "customer_service",
+        "team_development",
+        "process_improvement",
+        "financial_performance",
+        "merchandising",
+        "inventory_management"
+      ],
+      "core_skills": [
+        "leadership",
+        "customer_service",
+        "team_development",
+        "process_improvement"
+      ],
+      "seniority_signal": "mid",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "onsite"
     },
     "-usa--stocking-2-coa-wal-mart-stores-64108344": {
       "summary": "unknown",
@@ -14248,6 +14411,29 @@
       "red_flags": [],
       "work_mode_derived": "remote"
     },
+    "principal-software-e-openai-64108345": {
+      "summary": "Owns architecture and roadmap for core security services like authentication, authorization, and key management systems at scale.",
+      "key_skills": [
+        "kubernetes",
+        "cloud",
+        "security",
+        "infrastructure",
+        "authentication",
+        "authorization",
+        "key_management",
+        "encryption"
+      ],
+      "core_skills": [
+        "kubernetes",
+        "cloud",
+        "security",
+        "infrastructure"
+      ],
+      "seniority_signal": "principal",
+      "role_type": "ic",
+      "red_flags": [],
+      "work_mode_derived": "unknown"
+    },
     "product-marketing-ma-openai-64108345": {
       "summary": "Senior Product Marketing Manager shapes OpenAI's API platform narrative to drive developer and enterprise adoption while collaborating with Product, Sales, and Comms teams to execute high-impact marketing strategies.",
       "key_skills": [
@@ -15115,29 +15301,6 @@
       "red_flags": [],
       "work_mode_derived": "unknown"
     },
-    "team-lead--market-op-carvana-79489905": {
-      "summary": "Team Lead manages local Carvana hub operations including market launches, logistics, customer experience, and team development while ensuring high performance in a fast-paced environment.",
-      "key_skills": [
-        "customer experience",
-        "logistics",
-        "team leadership",
-        "process improvement",
-        "strategic planning",
-        "sales",
-        "market operations",
-        "analytics"
-      ],
-      "core_skills": [
-        "team leadership",
-        "strategic planning",
-        "process improvement",
-        "logistics"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
     "senior-named-account-cloudflare-79489905": {
       "summary": "Account Executive drives enterprise sales growth by leading complex customer engagements, managing multi-million dollar sales cycles, and orchestrating digital transformation strategies for large-scale clients.",
       "key_skills": [
@@ -15202,29 +15365,6 @@
       "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
-    },
-    "sales-director---atl-nexxen-79489905": {
-      "summary": "Enterprise Sales Director leads tactical sales and client management for Southeast US region, driving revenue through end-to-end technology solutions and building long-term relationships with agency and brand stakeholders.",
-      "key_skills": [
-        "adtech",
-        "sales",
-        "enterprise",
-        "client_management",
-        "dsp",
-        "ssp",
-        "dmp",
-        "marTech"
-      ],
-      "core_skills": [
-        "solution_selling",
-        "revenue_growth",
-        "client_relationships",
-        "adtech_ecosystem"
-      ],
-      "seniority_signal": "executive",
-      "role_type": "executive",
-      "red_flags": [],
-      "work_mode_derived": "remote"
     },
     "registered-nurse-ci-mdh-spring-grov-79489905": {
       "summary": "Provides direct nursing care on a psychiatric ward and supervises subordinate staff as charge nurse when needed.",
