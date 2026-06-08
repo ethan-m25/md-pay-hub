@@ -1,8 +1,8 @@
 {
   "meta": {
-    "built_at": "2026-06-07T08:48:19.065275+00:00",
-    "total_jobs": 991,
-    "enriched": 724
+    "built_at": "2026-06-08T08:56:29.192998+00:00",
+    "total_jobs": 1036,
+    "enriched": 723
   },
   "jobs": {
     "narrative-and-projec-the-baltimore-b-28696025": {
@@ -15468,29 +15468,6 @@
       ],
       "seniority_signal": "entry",
       "role_type": "ic",
-      "red_flags": [],
-      "work_mode_derived": "onsite"
-    },
-    "team-lead--market-op-carvana-21851830": {
-      "summary": "Team Lead manages local Carvana hub operations including market launches, logistics, customer experience, and team development while ensuring high performance in a fast-paced environment.",
-      "key_skills": [
-        "market operations",
-        "customer experience",
-        "logistics",
-        "team leadership",
-        "process improvement",
-        "strategic planning",
-        "sales",
-        "customer advocacy"
-      ],
-      "core_skills": [
-        "team leadership",
-        "process improvement",
-        "strategic planning",
-        "customer experience"
-      ],
-      "seniority_signal": "mid",
-      "role_type": "manager",
       "red_flags": [],
       "work_mode_derived": "onsite"
     }
