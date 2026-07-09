@@ -1,212 +1,249 @@
 {
-  "generated": "2026-07-08",
+  "generated": "2026-07-09",
   "categories": {
     "Other": {
-      "cat_median": 110000,
-      "n_jobs": 134,
+      "cat_median": 109000,
+      "n_jobs": 140,
       "skills": [
         {
-          "skill": "telehealth service delivery",
+          "skill": "telehealth",
           "median": 352500,
           "n": 2,
-          "dev": 220.5
+          "dev": 223.4
         },
         {
           "skill": "clinical team collaboration",
           "median": 352500,
           "n": 2,
-          "dev": 220.5
+          "dev": 223.4
         },
         {
-          "skill": "telehealth",
+          "skill": "behavioral health practice",
           "median": 352500,
           "n": 2,
-          "dev": 220.5
+          "dev": 223.4
+        },
+        {
+          "skill": "patient scheduling management",
+          "median": 352500,
+          "n": 2,
+          "dev": 223.4
+        },
+        {
+          "skill": "therapeutic alliance",
+          "median": 350000,
+          "n": 2,
+          "dev": 221.1
         },
         {
           "skill": "clinical documentation",
           "median": 350000,
           "n": 2,
-          "dev": 218.2
+          "dev": 221.1
         },
         {
           "skill": "diagnostic assessment",
           "median": 350000,
           "n": 2,
-          "dev": 218.2
+          "dev": 221.1
         },
         {
-          "skill": "medication prescribing",
+          "skill": "patient counseling",
           "median": 350000,
           "n": 2,
-          "dev": 218.2
+          "dev": 221.1
         },
         {
-          "skill": "electronic health records",
+          "skill": "telepsychiatry",
           "median": 350000,
           "n": 2,
-          "dev": 218.2
-        },
-        {
-          "skill": "board certification",
-          "median": 350000,
-          "n": 2,
-          "dev": 218.2
+          "dev": 221.1
         },
         {
           "skill": "medication management",
           "median": 273750,
           "n": 4,
-          "dev": 148.9
+          "dev": 151.1
+        },
+        {
+          "skill": "contract negotiation",
+          "median": 212500,
+          "n": 2,
+          "dev": 95.0
+        },
+        {
+          "skill": "contract lifecycle governance",
+          "median": 205000,
+          "n": 2,
+          "dev": 88.1
         },
         {
           "skill": "primavera p6 scheduling",
           "median": 205000,
           "n": 2,
-          "dev": 86.4
-        },
-        {
-          "skill": "earned-value kpi reporting",
-          "median": 205000,
-          "n": 2,
-          "dev": 86.4
+          "dev": 88.1
         },
         {
           "skill": "master construction schedule ownership",
           "median": 205000,
           "n": 2,
-          "dev": 86.4
+          "dev": 88.1
         },
         {
-          "skill": "cross-functional team leadership",
+          "skill": "procore cost management",
           "median": 205000,
           "n": 2,
-          "dev": 86.4
-        },
-        {
-          "skill": "hyperscale data center",
-          "median": 205000,
-          "n": 2,
-          "dev": 86.4
-        },
-        {
-          "skill": "procurement workflows",
-          "median": 205000,
-          "n": 2,
-          "dev": 86.4
+          "dev": 88.1
         },
         {
           "skill": "systems engineering",
           "median": 199950,
           "n": 2,
-          "dev": 81.8
-        },
-        {
-          "skill": "collaborative team-based care",
-          "median": 197500,
-          "n": 2,
-          "dev": 79.5
-        },
-        {
-          "skill": "psychoeducation and supportive therapy",
-          "median": 197500,
-          "n": 2,
-          "dev": 79.5
+          "dev": 83.4
         },
         {
           "skill": "pmhnp board certification",
           "median": 197500,
           "n": 2,
-          "dev": 79.5
+          "dev": 81.2
         },
         {
           "skill": "electronic medical records proficiency",
           "median": 197500,
           "n": 2,
-          "dev": 79.5
+          "dev": 81.2
         },
         {
-          "skill": "comprehensive psychiatric evaluations",
+          "skill": "evidence-based clinical judgment",
           "median": 197500,
           "n": 2,
-          "dev": 79.5
+          "dev": 81.2
         },
         {
-          "skill": "security clearance",
-          "median": 196500,
+          "skill": "outpatient psychiatric care delivery",
+          "median": 197500,
           "n": 2,
-          "dev": 78.6
+          "dev": 81.2
+        },
+        {
+          "skill": "autonomous practice authority",
+          "median": 197500,
+          "n": 2,
+          "dev": 81.2
         },
         {
           "skill": "system monitoring",
           "median": 196500,
           "n": 2,
-          "dev": 78.6
+          "dev": 80.3
         },
         {
           "skill": "rmf requirements",
           "median": 196500,
           "n": 2,
-          "dev": 78.6
+          "dev": 80.3
         },
         {
-          "skill": "federal contracts",
+          "skill": "nginx deployment",
           "median": 196500,
           "n": 2,
-          "dev": 78.6
+          "dev": 80.3
+        },
+        {
+          "skill": "docker containerization",
+          "median": 196500,
+          "n": 2,
+          "dev": 80.3
         },
         {
           "skill": "patching procedures",
           "median": 196500,
           "n": 2,
-          "dev": 78.6
+          "dev": 80.3
         },
         {
-          "skill": "fips compliance",
+          "skill": "selinux configuration",
           "median": 196500,
           "n": 2,
-          "dev": 78.6
+          "dev": 80.3
         },
         {
-          "skill": "drug development",
-          "median": 184900,
+          "skill": "container orchestration",
+          "median": 188750,
           "n": 2,
-          "dev": 68.1
+          "dev": 73.2
         },
         {
-          "skill": "program management",
+          "skill": "portfolio management",
           "median": 184900,
           "n": 3,
-          "dev": 68.1
+          "dev": 69.6
         },
         {
-          "skill": "scientific strategy",
+          "skill": "market research",
           "median": 184900,
-          "n": 2,
-          "dev": 68.1
+          "n": 3,
+          "dev": 69.6
         }
       ]
     },
     "Product": {
       "cat_median": 162500,
       "n_jobs": 11,
-      "skills": []
+      "skills": [
+        {
+          "skill": "strategic planning",
+          "median": 260425,
+          "n": 2,
+          "dev": 60.3
+        },
+        {
+          "skill": "product management",
+          "median": 185012,
+          "n": 3,
+          "dev": 13.9
+        },
+        {
+          "skill": "cybersecurity",
+          "median": 185012,
+          "n": 2,
+          "dev": 13.9
+        },
+        {
+          "skill": "attribute based access",
+          "median": 185012,
+          "n": 2,
+          "dev": 13.9
+        },
+        {
+          "skill": "regulatory compliance monitoring",
+          "median": 185012,
+          "n": 2,
+          "dev": 13.9
+        },
+        {
+          "skill": "roadmap planning",
+          "median": 185012,
+          "n": 2,
+          "dev": 13.9
+        },
+        {
+          "skill": "stakeholder management",
+          "median": 173756,
+          "n": 4,
+          "dev": 6.9
+        }
+      ]
     },
     "Product & Project": {
       "cat_median": 172000,
       "n_jobs": 99,
       "skills": [
         {
-          "skill": "security",
-          "median": 332750,
+          "skill": "saas",
+          "median": 335500,
           "n": 2,
-          "dev": 93.5
-        },
-        {
-          "skill": "product",
-          "median": 284000,
-          "n": 2,
-          "dev": 65.1
+          "dev": 95.1
         },
         {
           "skill": "scaling",
@@ -221,7 +258,7 @@
           "dev": 57.0
         },
         {
-          "skill": "manufacturing operations",
+          "skill": "site readiness",
           "median": 270000,
           "n": 2,
           "dev": 57.0
@@ -233,25 +270,31 @@
           "dev": 57.0
         },
         {
-          "skill": "operational execution",
+          "skill": "infrastructure deployment",
           "median": 270000,
           "n": 2,
           "dev": 57.0
         },
         {
-          "skill": "mentorship",
-          "median": 257000,
+          "skill": "manufacturing operations",
+          "median": 270000,
           "n": 2,
-          "dev": 49.4
+          "dev": 57.0
         },
         {
-          "skill": "cross_functional_collaboration",
+          "skill": "systemic_thinking",
           "median": 257000,
           "n": 2,
           "dev": 49.4
         },
         {
           "skill": "workflow_builder",
+          "median": 257000,
+          "n": 2,
+          "dev": 49.4
+        },
+        {
+          "skill": "product_design",
           "median": 257000,
           "n": 2,
           "dev": 49.4
@@ -269,16 +312,46 @@
           "dev": 49.4
         },
         {
+          "skill": "change management",
+          "median": 257000,
+          "n": 2,
+          "dev": 49.4
+        },
+        {
+          "skill": "governance",
+          "median": 240500,
+          "n": 3,
+          "dev": 39.8
+        },
+        {
           "skill": "customer engagement",
           "median": 230700,
           "n": 2,
           "dev": 34.1
         },
         {
+          "skill": "schedule management",
+          "median": 230400,
+          "n": 3,
+          "dev": 34.0
+        },
+        {
           "skill": "automation",
           "median": 226400,
           "n": 2,
           "dev": 31.6
+        },
+        {
+          "skill": "compliance",
+          "median": 225500,
+          "n": 12,
+          "dev": 31.1
+        },
+        {
+          "skill": "data_infrastructure",
+          "median": 225500,
+          "n": 3,
+          "dev": 31.1
         },
         {
           "skill": "hris",
@@ -293,57 +366,45 @@
           "dev": 31.1
         },
         {
+          "skill": "product_vision",
+          "median": 225500,
+          "n": 4,
+          "dev": 31.1
+        },
+        {
           "skill": "agentic_ai",
           "median": 225500,
           "n": 3,
           "dev": 31.1
         },
         {
-          "skill": "data_infrastructure",
-          "median": 225500,
-          "n": 3,
-          "dev": 31.1
-        },
-        {
-          "skill": "strategic_planning",
-          "median": 225500,
-          "n": 5,
-          "dev": 31.1
-        },
-        {
-          "skill": "product_vision",
-          "median": 225500,
-          "n": 3,
-          "dev": 31.1
-        },
-        {
-          "skill": "cross-functional collaboration",
-          "median": 225500,
-          "n": 3,
-          "dev": 31.1
-        },
-        {
-          "skill": "product management",
-          "median": 225500,
-          "n": 3,
-          "dev": 31.1
-        },
-        {
-          "skill": "product strategy",
-          "median": 222850,
-          "n": 3,
-          "dev": 29.6
-        },
-        {
-          "skill": "supply chain",
-          "median": 219850,
+          "skill": "operations",
+          "median": 225250,
           "n": 4,
-          "dev": 27.8
+          "dev": 31.0
         },
         {
           "skill": "strategic planning",
           "median": 217300,
           "n": 7,
+          "dev": 26.3
+        },
+        {
+          "skill": "resource planning",
+          "median": 217300,
+          "n": 3,
+          "dev": 26.3
+        },
+        {
+          "skill": "contractor bidding",
+          "median": 217250,
+          "n": 2,
+          "dev": 26.3
+        },
+        {
+          "skill": "design optimization",
+          "median": 217250,
+          "n": 2,
           "dev": 26.3
         },
         {
@@ -353,27 +414,9 @@
           "dev": 26.3
         },
         {
-          "skill": "mentoring",
-          "median": 217250,
-          "n": 2,
-          "dev": 26.3
-        },
-        {
-          "skill": "data center construction",
-          "median": 217250,
-          "n": 2,
-          "dev": 26.3
-        },
-        {
-          "skill": "scalable systems",
+          "skill": "product management",
           "median": 215000,
-          "n": 2,
-          "dev": 25.0
-        },
-        {
-          "skill": "platform product thinking",
-          "median": 215000,
-          "n": 2,
+          "n": 11,
           "dev": 25.0
         }
       ]
@@ -383,22 +426,16 @@
       "n_jobs": 159,
       "skills": [
         {
-          "skill": "product",
-          "median": 229500,
-          "n": 2,
-          "dev": 92.4
-        },
-        {
           "skill": "sales",
           "median": 217750,
           "n": 2,
           "dev": 82.5
         },
         {
-          "skill": "mission assurance",
-          "median": 209400,
+          "skill": "governance",
+          "median": 197250,
           "n": 2,
-          "dev": 75.5
+          "dev": 65.3
         },
         {
           "skill": "data",
@@ -407,7 +444,7 @@
           "dev": 62.6
         },
         {
-          "skill": "product enablement",
+          "skill": "data-driven mindset",
           "median": 193500,
           "n": 2,
           "dev": 62.2
@@ -419,15 +456,27 @@
           "dev": 61.0
         },
         {
+          "skill": "facilities engineering",
+          "median": 192100,
+          "n": 2,
+          "dev": 61.0
+        },
+        {
           "skill": "sql",
           "median": 188850,
           "n": 2,
           "dev": 58.3
         },
         {
-          "skill": "analytics",
+          "skill": "revenue",
           "median": 184000,
-          "n": 4,
+          "n": 2,
+          "dev": 54.2
+        },
+        {
+          "skill": "cross-functional collaboration",
+          "median": 184000,
+          "n": 6,
           "dev": 54.2
         },
         {
@@ -443,28 +492,10 @@
           "dev": 48.3
         },
         {
-          "skill": "engineering",
-          "median": 174800,
-          "n": 3,
-          "dev": 46.5
-        },
-        {
-          "skill": "cross-functional leadership",
-          "median": 168900,
+          "skill": "sales operations",
+          "median": 166500,
           "n": 2,
-          "dev": 41.6
-        },
-        {
-          "skill": "mentoring",
-          "median": 165006,
-          "n": 2,
-          "dev": 38.3
-        },
-        {
-          "skill": "strategic_planning",
-          "median": 164900,
-          "n": 2,
-          "dev": 38.2
+          "dev": 39.6
         },
         {
           "skill": "program management",
@@ -473,10 +504,10 @@
           "dev": 38.1
         },
         {
-          "skill": "risk mitigation",
-          "median": 162000,
-          "n": 3,
-          "dev": 35.8
+          "skill": "workflow optimization",
+          "median": 160125,
+          "n": 2,
+          "dev": 34.2
         },
         {
           "skill": "process optimization",
@@ -485,25 +516,19 @@
           "dev": 33.8
         },
         {
-          "skill": "capital expenditures",
+          "skill": "space utilization",
           "median": 159500,
           "n": 2,
           "dev": 33.7
         },
         {
-          "skill": "process_optimization",
+          "skill": "processes",
           "median": 158900,
           "n": 3,
           "dev": 33.2
         },
         {
-          "skill": "regulations",
-          "median": 158900,
-          "n": 3,
-          "dev": 33.2
-        },
-        {
-          "skill": "risk_management",
+          "skill": "as9100",
           "median": 158900,
           "n": 3,
           "dev": 33.2
@@ -515,37 +540,13 @@
           "dev": 33.2
         },
         {
-          "skill": "financial forecasting",
-          "median": 158900,
-          "n": 2,
-          "dev": 33.2
-        },
-        {
           "skill": "proposal",
           "median": 158900,
           "n": 3,
           "dev": 33.2
         },
         {
-          "skill": "strategic planning",
-          "median": 155000,
-          "n": 13,
-          "dev": 29.9
-        },
-        {
-          "skill": "data_analysis",
-          "median": 154439,
-          "n": 3,
-          "dev": 29.5
-        },
-        {
           "skill": "knowledge management",
-          "median": 153500,
-          "n": 2,
-          "dev": 28.7
-        },
-        {
-          "skill": "operations enablement",
           "median": 153500,
           "n": 2,
           "dev": 28.7
@@ -557,16 +558,58 @@
           "dev": 28.7
         },
         {
+          "skill": "servicing strategy",
+          "median": 153500,
+          "n": 2,
+          "dev": 28.7
+        },
+        {
+          "skill": "stakeholder engagement",
+          "median": 153500,
+          "n": 2,
+          "dev": 28.7
+        },
+        {
+          "skill": "root cause analysis",
+          "median": 151150,
+          "n": 4,
+          "dev": 26.7
+        },
+        {
+          "skill": "cost management",
+          "median": 150050,
+          "n": 2,
+          "dev": 25.8
+        },
+        {
+          "skill": "strategic planning",
+          "median": 149600,
+          "n": 12,
+          "dev": 25.4
+        },
+        {
+          "skill": "proposal development",
+          "median": 149550,
+          "n": 4,
+          "dev": 25.4
+        },
+        {
           "skill": "government contracts",
           "median": 149550,
           "n": 4,
+          "dev": 25.4
+        },
+        {
+          "skill": "regulatory",
+          "median": 149550,
+          "n": 2,
           "dev": 25.4
         }
       ]
     },
     "Engineering": {
       "cat_median": 154200,
-      "n_jobs": 704,
+      "n_jobs": 718,
       "skills": [
         {
           "skill": "key_management",
@@ -575,40 +618,28 @@
           "dev": 177.6
         },
         {
-          "skill": "authorization",
+          "skill": "authentication",
+          "median": 428000,
+          "n": 2,
+          "dev": 177.6
+        },
+        {
+          "skill": "encryption",
           "median": 418500,
           "n": 3,
           "dev": 171.4
         },
         {
-          "skill": "authentication",
+          "skill": "security",
           "median": 315250,
           "n": 4,
           "dev": 104.4
         },
         {
-          "skill": "container security",
-          "median": 295500,
+          "skill": "cross-functional leadership",
+          "median": 286350,
           "n": 2,
-          "dev": 91.6
-        },
-        {
-          "skill": "sales engineering",
-          "median": 287750,
-          "n": 2,
-          "dev": 86.6
-        },
-        {
-          "skill": "system_design",
-          "median": 283000,
-          "n": 3,
-          "dev": 83.5
-        },
-        {
-          "skill": "nodejs",
-          "median": 279250,
-          "n": 4,
-          "dev": 81.1
+          "dev": 85.7
         },
         {
           "skill": "platform",
@@ -617,13 +648,7 @@
           "dev": 78.9
         },
         {
-          "skill": "operational lifecycle",
-          "median": 268000,
-          "n": 2,
-          "dev": 73.8
-        },
-        {
-          "skill": "operational excellence",
+          "skill": "full-stack engineering",
           "median": 268000,
           "n": 2,
           "dev": 73.8
@@ -635,25 +660,13 @@
           "dev": 73.2
         },
         {
-          "skill": "ai deployment",
-          "median": 255200,
-          "n": 2,
-          "dev": 65.5
+          "skill": "ai-native",
+          "median": 261000,
+          "n": 3,
+          "dev": 69.3
         },
         {
           "skill": "ai tool customization",
-          "median": 255200,
-          "n": 2,
-          "dev": 65.5
-        },
-        {
-          "skill": "product strategy",
-          "median": 255200,
-          "n": 2,
-          "dev": 65.5
-        },
-        {
-          "skill": "workflow automation",
           "median": 255200,
           "n": 2,
           "dev": 65.5
@@ -665,7 +678,31 @@
           "dev": 65.5
         },
         {
-          "skill": "failure modes",
+          "skill": "customer-facing leadership",
+          "median": 255200,
+          "n": 2,
+          "dev": 65.5
+        },
+        {
+          "skill": "workflow automation",
+          "median": 255200,
+          "n": 2,
+          "dev": 65.5
+        },
+        {
+          "skill": "application security",
+          "median": 252250,
+          "n": 2,
+          "dev": 63.6
+        },
+        {
+          "skill": "solutions engineering",
+          "median": 250250,
+          "n": 4,
+          "dev": 62.3
+        },
+        {
+          "skill": "system reliability",
           "median": 250000,
           "n": 2,
           "dev": 62.1
@@ -673,23 +710,17 @@
         {
           "skill": "cloud-native",
           "median": 250000,
-          "n": 5,
+          "n": 4,
           "dev": 62.1
         },
         {
-          "skill": "chaos engineering",
+          "skill": "leadership and strategy",
           "median": 250000,
           "n": 2,
           "dev": 62.1
         },
         {
-          "skill": "collaboration and enablement",
-          "median": 250000,
-          "n": 2,
-          "dev": 62.1
-        },
-        {
-          "skill": "bazel",
+          "skill": "build systems",
           "median": 250000,
           "n": 2,
           "dev": 62.1
@@ -701,10 +732,10 @@
           "dev": 62.1
         },
         {
-          "skill": "leadership and strategy",
-          "median": 250000,
+          "skill": "pre-sales",
+          "median": 247000,
           "n": 2,
-          "dev": 62.1
+          "dev": 60.2
         },
         {
           "skill": "customer engagement",
@@ -713,27 +744,9 @@
           "dev": 60.2
         },
         {
-          "skill": "saas",
-          "median": 247000,
-          "n": 2,
-          "dev": 60.2
-        },
-        {
-          "skill": "pre-sales",
-          "median": 247000,
-          "n": 2,
-          "dev": 60.2
-        },
-        {
-          "skill": "solutions engineering",
-          "median": 247000,
-          "n": 2,
-          "dev": 60.2
-        },
-        {
-          "skill": "nextjs",
+          "skill": "seo",
           "median": 245000,
-          "n": 4,
+          "n": 2,
           "dev": 58.9
         },
         {
@@ -743,10 +756,40 @@
           "dev": 58.9
         },
         {
-          "skill": "prompt engineering",
+          "skill": "nodejs",
           "median": 243500,
-          "n": 3,
+          "n": 5,
           "dev": 57.9
+        },
+        {
+          "skill": "cdn",
+          "median": 238000,
+          "n": 3,
+          "dev": 54.3
+        },
+        {
+          "skill": "githubactions",
+          "median": 234500,
+          "n": 4,
+          "dev": 52.1
+        },
+        {
+          "skill": "operational excellence",
+          "median": 234000,
+          "n": 4,
+          "dev": 51.8
+        },
+        {
+          "skill": "container_scheduling",
+          "median": 231750,
+          "n": 2,
+          "dev": 50.3
+        },
+        {
+          "skill": "performance_optimization",
+          "median": 231750,
+          "n": 2,
+          "dev": 50.3
         }
       ]
     },
@@ -755,16 +798,16 @@
       "n_jobs": 119,
       "skills": [
         {
+          "skill": "executive_communication",
+          "median": 348750,
+          "n": 2,
+          "dev": 111.4
+        },
+        {
           "skill": "retail",
           "median": 330000,
           "n": 3,
           "dev": 100.0
-        },
-        {
-          "skill": "kubernetes",
-          "median": 309500,
-          "n": 2,
-          "dev": 87.6
         },
         {
           "skill": "observability",
@@ -773,10 +816,10 @@
           "dev": 87.6
         },
         {
-          "skill": "leadership",
-          "median": 305000,
-          "n": 7,
-          "dev": 84.8
+          "skill": "kubernetes",
+          "median": 309500,
+          "n": 2,
+          "dev": 87.6
         },
         {
           "skill": "strategic",
@@ -785,43 +828,55 @@
           "dev": 84.8
         },
         {
+          "skill": "strategy",
+          "median": 301000,
+          "n": 3,
+          "dev": 82.4
+        },
+        {
           "skill": "customer_engagement",
           "median": 301000,
           "n": 3,
           "dev": 82.4
         },
         {
-          "skill": "it_architecture",
+          "skill": "enterprise_sales",
           "median": 301000,
           "n": 3,
           "dev": 82.4
-        },
-        {
-          "skill": "digital_transformation",
-          "median": 301000,
-          "n": 3,
-          "dev": 82.4
-        },
-        {
-          "skill": "negotiation",
-          "median": 290000,
-          "n": 3,
-          "dev": 75.8
         },
         {
           "skill": "forecasting",
-          "median": 287000,
-          "n": 5,
-          "dev": 73.9
+          "median": 294000,
+          "n": 4,
+          "dev": 78.2
         },
         {
-          "skill": "enterprise_sales",
+          "skill": "performance marketing",
+          "median": 285000,
+          "n": 3,
+          "dev": 72.7
+        },
+        {
+          "skill": "product_marketing",
+          "median": 271000,
+          "n": 3,
+          "dev": 64.2
+        },
+        {
+          "skill": "competitive_analysis",
+          "median": 271000,
+          "n": 3,
+          "dev": 64.2
+        },
+        {
+          "skill": "enterprise_adoption",
           "median": 271000,
           "n": 2,
           "dev": 64.2
         },
         {
-          "skill": "developer_engagement",
+          "skill": "technical_marketing",
           "median": 271000,
           "n": 2,
           "dev": 64.2
@@ -833,22 +888,40 @@
           "dev": 64.2
         },
         {
-          "skill": "enterprise_adoption",
+          "skill": "api_platform",
           "median": 271000,
           "n": 2,
           "dev": 64.2
         },
         {
-          "skill": "market_creation",
-          "median": 271000,
-          "n": 2,
-          "dev": 64.2
+          "skill": "enterprise",
+          "median": 262500,
+          "n": 9,
+          "dev": 59.1
         },
         {
           "skill": "pipeline",
           "median": 259750,
           "n": 6,
           "dev": 57.4
+        },
+        {
+          "skill": "data",
+          "median": 258750,
+          "n": 4,
+          "dev": 56.8
+        },
+        {
+          "skill": "solutions engineering",
+          "median": 255500,
+          "n": 4,
+          "dev": 54.8
+        },
+        {
+          "skill": "technical presentations",
+          "median": 255500,
+          "n": 2,
+          "dev": 54.8
         },
         {
           "skill": "cdn",
@@ -869,13 +942,7 @@
           "dev": 54.8
         },
         {
-          "skill": "networking",
-          "median": 255500,
-          "n": 2,
-          "dev": 54.8
-        },
-        {
-          "skill": "solutions engineering",
+          "skill": "customer engagement",
           "median": 255500,
           "n": 2,
           "dev": 54.8
@@ -909,30 +976,6 @@
           "median": 243325,
           "n": 2,
           "dev": 47.5
-        },
-        {
-          "skill": "strategic_planning",
-          "median": 243250,
-          "n": 6,
-          "dev": 47.4
-        },
-        {
-          "skill": "outbound",
-          "median": 231250,
-          "n": 2,
-          "dev": 40.2
-        },
-        {
-          "skill": "product-consulting",
-          "median": 229000,
-          "n": 3,
-          "dev": 38.8
-        },
-        {
-          "skill": "customer-communication",
-          "median": 229000,
-          "n": 3,
-          "dev": 38.8
         }
       ]
     },
@@ -941,16 +984,10 @@
       "n_jobs": 30,
       "skills": [
         {
-          "skill": "leadership",
+          "skill": "hiring",
           "median": 226500,
           "n": 2,
           "dev": 52.5
-        },
-        {
-          "skill": "data_driven",
-          "median": 216000,
-          "n": 2,
-          "dev": 45.5
         },
         {
           "skill": "recruiting",
@@ -959,22 +996,28 @@
           "dev": 45.5
         },
         {
+          "skill": "data_driven",
+          "median": 216000,
+          "n": 2,
+          "dev": 45.5
+        },
+        {
           "skill": "talent",
-          "median": 165750,
-          "n": 2,
-          "dev": 11.6
+          "median": 216000,
+          "n": 4,
+          "dev": 45.5
         },
         {
-          "skill": "mentoring",
-          "median": 163100,
-          "n": 2,
-          "dev": 9.8
+          "skill": "data analysis",
+          "median": 194950,
+          "n": 4,
+          "dev": 31.3
         },
         {
-          "skill": "cross-functional leadership",
-          "median": 158500,
-          "n": 2,
-          "dev": 6.7
+          "skill": "compliance",
+          "median": 156700,
+          "n": 4,
+          "dev": 5.5
         },
         {
           "skill": "process optimization",
@@ -989,10 +1032,10 @@
           "dev": -0.5
         },
         {
-          "skill": "performance management",
-          "median": 145700,
+          "skill": "talent acquisition",
+          "median": 147000,
           "n": 3,
-          "dev": -1.9
+          "dev": -1.0
         },
         {
           "skill": "strategic planning",
@@ -1001,7 +1044,7 @@
           "dev": -13.3
         },
         {
-          "skill": "candidate_experience",
+          "skill": "scheduling",
           "median": 120000,
           "n": 2,
           "dev": -19.2
@@ -1013,19 +1056,31 @@
           "dev": -21.5
         },
         {
-          "skill": "workday",
-          "median": 111790,
+          "skill": "employment law compliance",
+          "median": 116600,
           "n": 2,
-          "dev": -24.7
+          "dev": -21.5
         },
         {
-          "skill": "policy interpretation",
-          "median": 87440,
+          "skill": "payroll",
+          "median": 78690,
           "n": 2,
-          "dev": -41.1
+          "dev": -47.0
         },
         {
-          "skill": "forecasting",
+          "skill": "human resources",
+          "median": 74080,
+          "n": 2,
+          "dev": -50.1
+        },
+        {
+          "skill": "onboarding",
+          "median": 74080,
+          "n": 2,
+          "dev": -50.1
+        },
+        {
+          "skill": "budgeting",
           "median": 70000,
           "n": 2,
           "dev": -52.9
@@ -1036,6 +1091,12 @@
       "cat_median": 142450,
       "n_jobs": 107,
       "skills": [
+        {
+          "skill": "incident_response",
+          "median": 313950,
+          "n": 2,
+          "dev": 120.4
+        },
         {
           "skill": "vulnerability_management",
           "median": 302500,
@@ -1061,22 +1122,16 @@
           "dev": 32.3
         },
         {
-          "skill": "nist 800-53",
-          "median": 181500,
-          "n": 8,
-          "dev": 27.4
+          "skill": "acas",
+          "median": 185500,
+          "n": 3,
+          "dev": 30.2
         },
         {
-          "skill": "nmap",
-          "median": 177500,
+          "skill": "technical leadership",
+          "median": 179941,
           "n": 3,
-          "dev": 24.6
-        },
-        {
-          "skill": "risk_management",
-          "median": 176800,
-          "n": 3,
-          "dev": 24.1
+          "dev": 26.3
         },
         {
           "skill": "sql",
@@ -1085,9 +1140,15 @@
           "dev": 22.9
         },
         {
-          "skill": "database administration",
+          "skill": "oracle exadata",
           "median": 175000,
-          "n": 4,
+          "n": 2,
+          "dev": 22.9
+        },
+        {
+          "skill": "oracle enterprise manager",
+          "median": 175000,
+          "n": 2,
           "dev": 22.9
         },
         {
@@ -1103,25 +1164,13 @@
           "dev": 22.9
         },
         {
-          "skill": "data migration",
-          "median": 175000,
-          "n": 2,
-          "dev": 22.9
-        },
-        {
-          "skill": "oracle exadata",
+          "skill": "postgresql",
           "median": 175000,
           "n": 2,
           "dev": 22.9
         },
         {
           "skill": "wan testing",
-          "median": 174999,
-          "n": 2,
-          "dev": 22.8
-        },
-        {
-          "skill": "project leadership",
           "median": 174999,
           "n": 2,
           "dev": 22.8
@@ -1139,25 +1188,7 @@
           "dev": 22.8
         },
         {
-          "skill": "acas",
-          "median": 173750,
-          "n": 4,
-          "dev": 22.0
-        },
-        {
-          "skill": "incident response",
-          "median": 165350,
-          "n": 2,
-          "dev": 16.1
-        },
-        {
-          "skill": "siem",
-          "median": 162500,
-          "n": 5,
-          "dev": 14.1
-        },
-        {
-          "skill": "ssh",
+          "skill": "jenkins",
           "median": 162500,
           "n": 3,
           "dev": 14.1
@@ -1169,7 +1200,7 @@
           "dev": 14.1
         },
         {
-          "skill": "jenkins",
+          "skill": "maintenance",
           "median": 162500,
           "n": 3,
           "dev": 14.1
@@ -1177,13 +1208,13 @@
         {
           "skill": "cybersecurity",
           "median": 162000,
-          "n": 5,
+          "n": 15,
           "dev": 13.7
         },
         {
-          "skill": "rmf",
+          "skill": "wireshark",
           "median": 162000,
-          "n": 15,
+          "n": 5,
           "dev": 13.7
         },
         {
@@ -1193,7 +1224,13 @@
           "dev": 13.7
         },
         {
-          "skill": "vulnerability management",
+          "skill": "scap",
+          "median": 162000,
+          "n": 2,
+          "dev": 13.7
+        },
+        {
+          "skill": "vpn",
           "median": 162000,
           "n": 3,
           "dev": 13.7
@@ -1211,10 +1248,28 @@
           "dev": 11.4
         },
         {
+          "skill": "nmap",
+          "median": 157500,
+          "n": 2,
+          "dev": 10.6
+        },
+        {
+          "skill": "system engineering",
+          "median": 157500,
+          "n": 2,
+          "dev": 10.6
+        },
+        {
           "skill": "nessus",
           "median": 156750,
           "n": 4,
           "dev": 10.0
+        },
+        {
+          "skill": "security+",
+          "median": 155950,
+          "n": 4,
+          "dev": 9.5
         }
       ]
     },
@@ -1223,10 +1278,10 @@
       "n_jobs": 29,
       "skills": [
         {
-          "skill": "product",
-          "median": 270250,
-          "n": 2,
-          "dev": 80.2
+          "skill": "governance",
+          "median": 269550,
+          "n": 4,
+          "dev": 79.7
         },
         {
           "skill": "leadership",
@@ -1237,20 +1292,14 @@
         {
           "skill": "legal",
           "median": 229600,
-          "n": 6,
+          "n": 5,
           "dev": 53.1
         },
         {
-          "skill": "governance",
-          "median": 228000,
+          "skill": "frameworks",
+          "median": 228250,
           "n": 2,
-          "dev": 52.0
-        },
-        {
-          "skill": "drafting",
-          "median": 199275,
-          "n": 2,
-          "dev": 32.9
+          "dev": 52.2
         },
         {
           "skill": "negotiation",
@@ -1265,21 +1314,15 @@
           "dev": 13.5
         },
         {
-          "skill": "risk_management",
-          "median": 168000,
-          "n": 4,
-          "dev": 12.0
-        },
-        {
           "skill": "compliance",
-          "median": 153000,
-          "n": 4,
-          "dev": 2.0
+          "median": 150000,
+          "n": 17,
+          "dev": 0.0
         },
         {
           "skill": "regulatory",
           "median": 150000,
-          "n": 7,
+          "n": 6,
           "dev": 0.0
         },
         {
@@ -1289,22 +1332,46 @@
           "dev": 0.0
         },
         {
+          "skill": "consumer",
+          "median": 135000,
+          "n": 2,
+          "dev": -10.0
+        },
+        {
+          "skill": "conflict resolution",
+          "median": 125000,
+          "n": 3,
+          "dev": -16.7
+        },
+        {
+          "skill": "federal ethics laws",
+          "median": 108700,
+          "n": 2,
+          "dev": -27.5
+        },
+        {
           "skill": "government policies",
           "median": 108700,
           "n": 2,
           "dev": -27.5
         },
         {
-          "skill": "conflict resolution",
+          "skill": "federal ethics",
           "median": 108700,
           "n": 2,
           "dev": -27.5
         },
         {
-          "skill": "training",
-          "median": 101500,
-          "n": 4,
-          "dev": -32.3
+          "skill": "ear",
+          "median": 101450,
+          "n": 2,
+          "dev": -32.4
+        },
+        {
+          "skill": "trade records",
+          "median": 101450,
+          "n": 2,
+          "dev": -32.4
         },
         {
           "skill": "commodity jurisdiction",
@@ -1313,19 +1380,13 @@
           "dev": -32.4
         },
         {
-          "skill": "supply chain",
+          "skill": "import controls",
           "median": 101450,
           "n": 2,
           "dev": -32.4
         },
         {
-          "skill": "itar",
-          "median": 101450,
-          "n": 2,
-          "dev": -32.4
-        },
-        {
-          "skill": "export compliance",
+          "skill": "regulatory compliance",
           "median": 101450,
           "n": 2,
           "dev": -32.4
@@ -1337,25 +1398,19 @@
       "n_jobs": 57,
       "skills": [
         {
-          "skill": "internal audit",
+          "skill": "internal controls",
           "median": 266250,
           "n": 2,
           "dev": 126.4
         },
         {
-          "skill": "risk management",
-          "median": 266250,
+          "skill": "sox readiness",
+          "median": 211250,
           "n": 2,
-          "dev": 126.4
+          "dev": 79.6
         },
         {
-          "skill": "data analytics",
-          "median": 213999,
-          "n": 2,
-          "dev": 82.0
-        },
-        {
-          "skill": "financial modeling",
+          "skill": "strategic finance",
           "median": 200000,
           "n": 2,
           "dev": 70.1
@@ -1367,16 +1422,10 @@
           "dev": 65.8
         },
         {
-          "skill": "financial analysis",
-          "median": 189800,
-          "n": 2,
-          "dev": 61.4
-        },
-        {
-          "skill": "multi-tasking",
-          "median": 174375,
-          "n": 2,
-          "dev": 48.3
+          "skill": "financial modeling",
+          "median": 195000,
+          "n": 3,
+          "dev": 65.8
         },
         {
           "skill": "unit economics",
@@ -1385,19 +1434,13 @@
           "dev": 46.0
         },
         {
-          "skill": "financial planning",
-          "median": 157500,
-          "n": 2,
-          "dev": 33.9
-        },
-        {
-          "skill": "program cost control",
+          "skill": "wbs development",
           "median": 157400,
           "n": 2,
           "dev": 33.8
         },
         {
-          "skill": "wbs development",
+          "skill": "program cost control",
           "median": 157400,
           "n": 2,
           "dev": 33.8
@@ -1415,10 +1458,22 @@
           "dev": 23.4
         },
         {
-          "skill": "looker",
-          "median": 141187,
-          "n": 2,
-          "dev": 20.1
+          "skill": "financial analysis",
+          "median": 140200,
+          "n": 9,
+          "dev": 19.2
+        },
+        {
+          "skill": "strategic planning",
+          "median": 138725,
+          "n": 4,
+          "dev": 18.0
+        },
+        {
+          "skill": "cross-functional collaboration",
+          "median": 138225,
+          "n": 6,
+          "dev": 17.5
         },
         {
           "skill": "earned value management",
@@ -1427,28 +1482,34 @@
           "dev": 15.4
         },
         {
-          "skill": "strategic planning",
-          "median": 135000,
-          "n": 5,
-          "dev": 14.8
-        },
-        {
           "skill": "analytical skills",
           "median": 134000,
           "n": 3,
           "dev": 13.9
         },
         {
-          "skill": "forecasting",
-          "median": 134000,
-          "n": 7,
-          "dev": 13.9
-        },
-        {
-          "skill": "quickbooks online",
+          "skill": "sage intacct",
           "median": 133750,
           "n": 2,
           "dev": 13.7
+        },
+        {
+          "skill": "project management",
+          "median": 131225,
+          "n": 2,
+          "dev": 11.6
+        },
+        {
+          "skill": "data analysis",
+          "median": 129887,
+          "n": 2,
+          "dev": 10.4
+        },
+        {
+          "skill": "revenue accounting",
+          "median": 129525,
+          "n": 2,
+          "dev": 10.1
         },
         {
           "skill": "asc 606",
@@ -1457,46 +1518,40 @@
           "dev": 10.1
         },
         {
-          "skill": "cross-functional collaboration",
+          "skill": "process automation",
           "median": 129525,
           "n": 2,
           "dev": 10.1
         },
         {
-          "skill": "mentoring",
-          "median": 128750,
+          "skill": "process improvement",
+          "median": 127500,
           "n": 2,
-          "dev": 9.5
+          "dev": 8.4
         },
         {
           "skill": "leadership",
-          "median": 123332,
-          "n": 7,
-          "dev": 4.9
-        },
-        {
-          "skill": "tax",
-          "median": 117675,
-          "n": 2,
-          "dev": 0.1
-        },
-        {
-          "skill": "variance analysis",
-          "median": 117500,
+          "median": 120000,
           "n": 3,
-          "dev": -0.1
+          "dev": 2.0
         },
         {
-          "skill": "financial reporting",
-          "median": 102550,
-          "n": 6,
-          "dev": -12.8
+          "skill": "budgeting",
+          "median": 112400,
+          "n": 11,
+          "dev": -4.4
         },
         {
-          "skill": "team leadership",
-          "median": 101375,
-          "n": 4,
-          "dev": -13.8
+          "skill": "regulatory compliance",
+          "median": 111400,
+          "n": 3,
+          "dev": -5.3
+        },
+        {
+          "skill": "reconciliations",
+          "median": 106250,
+          "n": 2,
+          "dev": -9.7
         },
         {
           "skill": "client relations",
@@ -1511,16 +1566,22 @@
           "dev": -13.8
         },
         {
-          "skill": "monthly close",
-          "median": 95250,
-          "n": 3,
-          "dev": -19.0
+          "skill": "xero",
+          "median": 98750,
+          "n": 2,
+          "dev": -16.0
+        },
+        {
+          "skill": "compliance",
+          "median": 96250,
+          "n": 14,
+          "dev": -18.2
         }
       ]
     },
     "Data & Analytics": {
       "cat_median": 140500,
-      "n_jobs": 79,
+      "n_jobs": 81,
       "skills": [
         {
           "skill": "leadership",
@@ -1535,37 +1596,31 @@
           "dev": 40.4
         },
         {
-          "skill": "aws",
-          "median": 196000,
-          "n": 2,
-          "dev": 39.5
-        },
-        {
           "skill": "data modeling",
           "median": 195000,
           "n": 3,
           "dev": 38.8
         },
         {
-          "skill": "problem-solving",
-          "median": 186725,
+          "skill": "artificial intelligence",
+          "median": 168750,
           "n": 2,
-          "dev": 32.9
+          "dev": 20.1
         },
         {
-          "skill": "pricing",
-          "median": 174625,
-          "n": 2,
-          "dev": 24.3
-        },
-        {
-          "skill": "target development",
+          "skill": "cybersecurity",
           "median": 168500,
-          "n": 2,
+          "n": 4,
           "dev": 19.9
         },
         {
-          "skill": "fraud strategy",
+          "skill": "snowflake",
+          "median": 165000,
+          "n": 2,
+          "dev": 17.4
+        },
+        {
+          "skill": "payment processing",
           "median": 165000,
           "n": 2,
           "dev": 17.4
@@ -1589,19 +1644,25 @@
           "dev": 17.4
         },
         {
-          "skill": "analysis",
+          "skill": "fraud strategy",
+          "median": 165000,
+          "n": 2,
+          "dev": 17.4
+        },
+        {
+          "skill": "python programming",
+          "median": 163725,
+          "n": 2,
+          "dev": 16.5
+        },
+        {
+          "skill": "data_analysis",
           "median": 162000,
           "n": 5,
           "dev": 15.3
         },
         {
-          "skill": "iot",
-          "median": 162000,
-          "n": 2,
-          "dev": 15.3
-        },
-        {
-          "skill": "algorithm_development",
+          "skill": "network",
           "median": 162000,
           "n": 2,
           "dev": 15.3
@@ -1613,40 +1674,34 @@
           "dev": 15.3
         },
         {
-          "skill": "python",
+          "skill": "algorithm_development",
           "median": 162000,
-          "n": 10,
+          "n": 2,
           "dev": 15.3
         },
         {
-          "skill": "network analysis",
+          "skill": "data science",
+          "median": 162000,
+          "n": 6,
+          "dev": 15.3
+        },
+        {
+          "skill": "target development",
           "median": 162000,
           "n": 3,
           "dev": 15.3
         },
         {
-          "skill": "intelligence",
-          "median": 162000,
-          "n": 4,
-          "dev": 15.3
-        },
-        {
-          "skill": "vulnerability analysis",
-          "median": 162000,
-          "n": 3,
-          "dev": 15.3
+          "skill": "data analysis",
+          "median": 158673,
+          "n": 8,
+          "dev": 12.9
         },
         {
           "skill": "sql",
-          "median": 160000,
-          "n": 13,
-          "dev": 13.9
-        },
-        {
-          "skill": "data governance",
-          "median": 160000,
-          "n": 3,
-          "dev": 13.9
+          "median": 157673,
+          "n": 14,
+          "dev": 12.2
         },
         {
           "skill": "etl",
@@ -1655,10 +1710,10 @@
           "dev": 12.2
         },
         {
-          "skill": "analytics",
-          "median": 152500,
-          "n": 4,
-          "dev": 8.5
+          "skill": "data handling",
+          "median": 152225,
+          "n": 2,
+          "dev": 8.3
         },
         {
           "skill": "data policy authoring",
@@ -1667,13 +1722,7 @@
           "dev": 8.3
         },
         {
-          "skill": "data schema development",
-          "median": 152225,
-          "n": 2,
-          "dev": 8.3
-        },
-        {
-          "skill": "data processing requirements",
+          "skill": "data schema",
           "median": 152225,
           "n": 2,
           "dev": 8.3
@@ -1685,13 +1734,7 @@
           "dev": 8.3
         },
         {
-          "skill": "data processing",
-          "median": 152225,
-          "n": 2,
-          "dev": 8.3
-        },
-        {
-          "skill": "exploitation",
+          "skill": "data schema development",
           "median": 152225,
           "n": 2,
           "dev": 8.3
@@ -1701,6 +1744,24 @@
           "median": 152225,
           "n": 2,
           "dev": 8.3
+        },
+        {
+          "skill": "tableau",
+          "median": 151250,
+          "n": 2,
+          "dev": 7.7
+        },
+        {
+          "skill": "sigint",
+          "median": 144400,
+          "n": 2,
+          "dev": 2.8
+        },
+        {
+          "skill": "network analysis",
+          "median": 144400,
+          "n": 2,
+          "dev": 2.8
         }
       ]
     },
@@ -1715,16 +1776,16 @@
           "dev": 53.9
         },
         {
-          "skill": "networking",
+          "skill": "troubleshooting",
           "median": 90500,
           "n": 3,
           "dev": 34.6
         },
         {
-          "skill": "customer service",
-          "median": 68500,
+          "skill": "technical support",
+          "median": 81250,
           "n": 2,
-          "dev": 1.9
+          "dev": 20.8
         },
         {
           "skill": "communication",
@@ -1733,7 +1794,13 @@
           "dev": 0.0
         },
         {
-          "skill": "leadership",
+          "skill": "hospitality",
+          "median": 67254,
+          "n": 2,
+          "dev": 0.0
+        },
+        {
+          "skill": "budgeting",
           "median": 67254,
           "n": 2,
           "dev": 0.0
@@ -1745,22 +1812,22 @@
           "dev": 0.0
         },
         {
-          "skill": "food safety",
+          "skill": "haccp",
           "median": 67254,
           "n": 2,
           "dev": 0.0
         },
         {
-          "skill": "hospitality",
+          "skill": "staff scheduling",
           "median": 67254,
           "n": 2,
           "dev": 0.0
         },
         {
-          "skill": "inventory control",
-          "median": 67254,
-          "n": 2,
-          "dev": 0.0
+          "skill": "customer service",
+          "median": 65000,
+          "n": 3,
+          "dev": -3.4
         }
       ]
     },
@@ -1769,28 +1836,28 @@
       "n_jobs": 21,
       "skills": [
         {
-          "skill": "mental health",
-          "median": 270600,
-          "n": 3,
-          "dev": 96.4
-        },
-        {
           "skill": "medical",
           "median": 229600,
           "n": 2,
           "dev": 66.6
         },
         {
-          "skill": "cross-functional collaboration",
-          "median": 227650,
-          "n": 2,
-          "dev": 65.2
-        },
-        {
           "skill": "clinical",
           "median": 223550,
           "n": 2,
           "dev": 62.2
+        },
+        {
+          "skill": "data analysis",
+          "median": 195951,
+          "n": 2,
+          "dev": 42.2
+        },
+        {
+          "skill": "cross-functional collaboration",
+          "median": 184700,
+          "n": 3,
+          "dev": 34.0
         },
         {
           "skill": "clinical practice",
@@ -1805,22 +1872,16 @@
           "dev": -17.5
         },
         {
-          "skill": "therapy",
-          "median": 91250,
+          "skill": "program development",
+          "median": 96401,
           "n": 2,
-          "dev": -33.8
+          "dev": -30.0
         },
         {
-          "skill": "counseling",
-          "median": 90000,
+          "skill": "clinical excellence",
+          "median": 92500,
           "n": 3,
-          "dev": -34.7
-        },
-        {
-          "skill": "patient advocacy",
-          "median": 90000,
-          "n": 3,
-          "dev": -34.7
+          "dev": -32.9
         },
         {
           "skill": "case management",
@@ -1835,21 +1896,9 @@
       "n_jobs": 7,
       "skills": [
         {
-          "skill": "comsec",
-          "median": 102125,
-          "n": 2,
-          "dev": 8.1
-        },
-        {
-          "skill": "security coordination",
+          "skill": "diss",
           "median": 65450,
-          "n": 2,
-          "dev": -30.7
-        },
-        {
-          "skill": "monitoring",
-          "median": 65450,
-          "n": 2,
+          "n": 3,
           "dev": -30.7
         },
         {
@@ -1859,19 +1908,25 @@
           "dev": -30.7
         },
         {
-          "skill": "dod 5205.7",
+          "skill": "sharepoint",
+          "median": 65450,
+          "n": 2,
+          "dev": -30.7
+        },
+        {
+          "skill": "policy enforcement",
+          "median": 65450,
+          "n": 2,
+          "dev": -30.7
+        },
+        {
+          "skill": "security compliance",
           "median": 65450,
           "n": 2,
           "dev": -30.7
         },
         {
           "skill": "log management",
-          "median": 65450,
-          "n": 2,
-          "dev": -30.7
-        },
-        {
-          "skill": "sharepoint",
           "median": 65450,
           "n": 2,
           "dev": -30.7
@@ -1889,16 +1944,22 @@
           "dev": 188.3
         },
         {
-          "skill": "sensor development",
-          "median": 255850,
-          "n": 2,
-          "dev": 188.3
-        },
-        {
           "skill": "flight test",
           "median": 172200,
           "n": 2,
           "dev": 94.0
+        },
+        {
+          "skill": "field data processing",
+          "median": 135000,
+          "n": 3,
+          "dev": 52.1
+        },
+        {
+          "skill": "benchmarks",
+          "median": 135000,
+          "n": 3,
+          "dev": 52.1
         },
         {
           "skill": "alignments",
@@ -1907,46 +1968,34 @@
           "dev": 52.1
         },
         {
-          "skill": "civil construction",
+          "skill": "cad software",
           "median": 135000,
           "n": 3,
           "dev": 52.1
         },
         {
-          "skill": "robotic total stations",
+          "skill": "survey maps",
           "median": 135000,
           "n": 3,
           "dev": 52.1
         },
         {
-          "skill": "data collectors",
+          "skill": "structures",
           "median": 135000,
           "n": 3,
           "dev": 52.1
-        },
-        {
-          "skill": "levels",
-          "median": 135000,
-          "n": 3,
-          "dev": 52.1
-        },
-        {
-          "skill": "bridge",
-          "median": 135000,
-          "n": 3,
-          "dev": 52.1
-        },
-        {
-          "skill": "electrical",
-          "median": 118650,
-          "n": 2,
-          "dev": 33.7
         },
         {
           "skill": "predictive maintenance",
           "median": 114250,
           "n": 2,
           "dev": 28.7
+        },
+        {
+          "skill": "aircraft maintenance",
+          "median": 108000,
+          "n": 5,
+          "dev": 21.7
         },
         {
           "skill": "field service",
@@ -1961,21 +2010,21 @@
           "dev": 9.8
         },
         {
-          "skill": "repair",
-          "median": 88800,
-          "n": 5,
-          "dev": 0.1
+          "skill": "troubleshooting",
+          "median": 96793,
+          "n": 8,
+          "dev": 9.1
         },
         {
-          "skill": "instrumentation",
-          "median": 88800,
-          "n": 2,
-          "dev": 0.1
+          "skill": "calibration",
+          "median": 91164,
+          "n": 4,
+          "dev": 2.7
         },
         {
           "skill": "testing",
           "median": 88800,
-          "n": 2,
+          "n": 3,
           "dev": 0.1
         },
         {
@@ -1985,22 +2034,22 @@
           "dev": 0.0
         },
         {
-          "skill": "calibration",
-          "median": 88742,
-          "n": 3,
-          "dev": 0.0
-        },
-        {
-          "skill": "circuit",
-          "median": 84653,
-          "n": 2,
-          "dev": -4.6
-        },
-        {
           "skill": "test",
           "median": 84371,
           "n": 2,
           "dev": -4.9
+        },
+        {
+          "skill": "technical documentation",
+          "median": 77270,
+          "n": 2,
+          "dev": -12.9
+        },
+        {
+          "skill": "blueprint reading",
+          "median": 77125,
+          "n": 2,
+          "dev": -13.1
         },
         {
           "skill": "lean manufacturing",
@@ -2009,25 +2058,19 @@
           "dev": -16.0
         },
         {
-          "skill": "electrical systems",
-          "median": 72488,
+          "skill": "assembly",
+          "median": 73007,
           "n": 2,
-          "dev": -18.3
-        },
-        {
-          "skill": "soldering",
-          "median": 69517,
-          "n": 2,
-          "dev": -21.7
-        },
-        {
-          "skill": "technical troubleshooting",
-          "median": 56176,
-          "n": 3,
-          "dev": -36.7
+          "dev": -17.7
         },
         {
           "skill": "mechanical repair",
+          "median": 55358,
+          "n": 2,
+          "dev": -37.6
+        },
+        {
+          "skill": "heavy-duty vehicles",
           "median": 54540,
           "n": 3,
           "dev": -38.5
@@ -2039,190 +2082,196 @@
           "dev": -38.5
         },
         {
-          "skill": "diesel engines",
-          "median": 54540,
+          "skill": "repair",
+          "median": 52854,
           "n": 3,
-          "dev": -38.5
+          "dev": -40.4
         }
       ]
     },
     "Management": {
-      "cat_median": 161600,
-      "n_jobs": 75,
+      "cat_median": 160000,
+      "n_jobs": 77,
       "skills": [
         {
-          "skill": "customer engagement",
-          "median": 230400,
-          "n": 3,
-          "dev": 42.6
-        },
-        {
-          "skill": "risk opportunity management",
-          "median": 211350,
+          "skill": "operating model design",
+          "median": 255000,
           "n": 2,
-          "dev": 30.8
+          "dev": 59.4
         },
         {
-          "skill": "supplier management",
-          "median": 209400,
-          "n": 3,
-          "dev": 29.6
+          "skill": "technical leadership",
+          "median": 240600,
+          "n": 2,
+          "dev": 50.4
+        },
+        {
+          "skill": "change management",
+          "median": 227600,
+          "n": 5,
+          "dev": 42.3
+        },
+        {
+          "skill": "budget forecasting",
+          "median": 219900,
+          "n": 2,
+          "dev": 37.4
+        },
+        {
+          "skill": "cross-functional collaboration",
+          "median": 212450,
+          "n": 2,
+          "dev": 32.8
         },
         {
           "skill": "earned value management",
           "median": 209400,
           "n": 7,
+          "dev": 30.9
+        },
+        {
+          "skill": "supplier management",
+          "median": 209400,
+          "n": 3,
+          "dev": 30.9
+        },
+        {
+          "skill": "stakeholder management",
+          "median": 207350,
+          "n": 5,
           "dev": 29.6
         },
         {
-          "skill": "contract negotiation",
-          "median": 200850,
-          "n": 2,
-          "dev": 24.3
+          "skill": "procurement",
+          "median": 207350,
+          "n": 3,
+          "dev": 29.6
         },
         {
-          "skill": "policy interpretation",
-          "median": 190161,
+          "skill": "negotiation",
+          "median": 206700,
           "n": 2,
-          "dev": 17.7
+          "dev": 29.2
+        },
+        {
+          "skill": "leadership",
+          "median": 192300,
+          "n": 7,
+          "dev": 20.2
+        },
+        {
+          "skill": "cross functional collaboration",
+          "median": 190050,
+          "n": 2,
+          "dev": 18.8
+        },
+        {
+          "skill": "customer engagement",
+          "median": 189250,
+          "n": 2,
+          "dev": 18.3
+        },
+        {
+          "skill": "resource planning",
+          "median": 185500,
+          "n": 2,
+          "dev": 15.9
         },
         {
           "skill": "program management",
           "median": 181250,
           "n": 6,
-          "dev": 12.2
-        },
-        {
-          "skill": "patient advocacy",
-          "median": 179562,
-          "n": 2,
-          "dev": 11.1
+          "dev": 13.3
         },
         {
           "skill": "customer relationship management",
           "median": 176550,
           "n": 2,
-          "dev": 9.3
+          "dev": 10.3
         },
         {
-          "skill": "leadership",
-          "median": 175975,
-          "n": 14,
-          "dev": 8.9
+          "skill": "workforce planning",
+          "median": 175600,
+          "n": 6,
+          "dev": 9.7
         },
         {
           "skill": "project scheduling",
           "median": 170000,
           "n": 3,
-          "dev": 5.2
-        },
-        {
-          "skill": "mentoring",
-          "median": 167375,
-          "n": 2,
-          "dev": 3.6
+          "dev": 6.2
         },
         {
           "skill": "federal compliance",
           "median": 164198,
           "n": 2,
-          "dev": 1.6
+          "dev": 2.6
         },
         {
-          "skill": "strategic planning",
-          "median": 162498,
-          "n": 16,
-          "dev": 0.6
+          "skill": "contract management",
+          "median": 163400,
+          "n": 3,
+          "dev": 2.1
         },
         {
           "skill": "budget tracking",
           "median": 161550,
           "n": 2,
-          "dev": -0.0
+          "dev": 1.0
         },
         {
-          "skill": "proposal development",
+          "skill": "financial reporting",
+          "median": 161148,
+          "n": 2,
+          "dev": 0.7
+        },
+        {
+          "skill": "far",
+          "median": 159225,
+          "n": 2,
+          "dev": -0.5
+        },
+        {
+          "skill": "strategic planning",
           "median": 158900,
-          "n": 5,
-          "dev": -1.7
+          "n": 13,
+          "dev": -0.7
         },
         {
-          "skill": "procurement",
-          "median": 158200,
+          "skill": "conflict resolution",
+          "median": 154178,
           "n": 2,
-          "dev": -2.1
+          "dev": -3.6
         },
         {
-          "skill": "secret clearance",
-          "median": 145100,
+          "skill": "cybersecurity",
+          "median": 153725,
           "n": 2,
-          "dev": -10.2
+          "dev": -3.9
+        },
+        {
+          "skill": "solution architecture",
+          "median": 149975,
+          "n": 2,
+          "dev": -6.3
         },
         {
           "skill": "budgeting forecasting",
           "median": 145100,
           "n": 2,
-          "dev": -10.2
+          "dev": -9.3
         },
         {
-          "skill": "data compilation",
+          "skill": "capital management",
           "median": 145100,
           "n": 2,
-          "dev": -10.2
+          "dev": -9.3
         },
         {
-          "skill": "team leadership",
-          "median": 144200,
-          "n": 7,
-          "dev": -10.8
-        },
-        {
-          "skill": "team supervision",
-          "median": 143728,
+          "skill": "financial analysis",
+          "median": 145100,
           "n": 2,
-          "dev": -11.1
-        },
-        {
-          "skill": "stakeholder engagement",
-          "median": 142450,
-          "n": 3,
-          "dev": -11.9
-        },
-        {
-          "skill": "client relations",
-          "median": 141275,
-          "n": 2,
-          "dev": -12.6
-        },
-        {
-          "skill": "microsoft office suite",
-          "median": 131300,
-          "n": 3,
-          "dev": -18.8
-        },
-        {
-          "skill": "resource allocation",
-          "median": 131300,
-          "n": 3,
-          "dev": -18.8
-        },
-        {
-          "skill": "project management",
-          "median": 125000,
-          "n": 5,
-          "dev": -22.6
-        },
-        {
-          "skill": "financial forecasting",
-          "median": 118500,
-          "n": 3,
-          "dev": -26.7
-        },
-        {
-          "skill": "communication",
-          "median": 110138,
-          "n": 4,
-          "dev": -31.8
+          "dev": -9.3
         }
       ]
     },
@@ -2231,46 +2280,40 @@
       "n_jobs": 38,
       "skills": [
         {
-          "skill": "collaboration",
-          "median": 167500,
-          "n": 5,
-          "dev": 135.1
-        },
-        {
-          "skill": "leadership",
-          "median": 158426,
-          "n": 6,
-          "dev": 122.4
-        },
-        {
-          "skill": "curriculum development",
-          "median": 157500,
-          "n": 2,
-          "dev": 121.1
-        },
-        {
           "skill": "educational leadership",
           "median": 153750,
           "n": 2,
           "dev": 115.8
         },
         {
-          "skill": "strategic planning",
-          "median": 149352,
-          "n": 5,
-          "dev": 109.6
-        },
-        {
-          "skill": "technical writing",
-          "median": 116626,
-          "n": 4,
-          "dev": 63.7
-        },
-        {
-          "skill": "research management",
-          "median": 109676,
+          "skill": "academic leadership",
+          "median": 148750,
           "n": 2,
-          "dev": 53.9
+          "dev": 108.8
+        },
+        {
+          "skill": "strategic planning",
+          "median": 144828,
+          "n": 4,
+          "dev": 103.3
+        },
+        {
+          "skill": "leadership",
+          "median": 143750,
+          "n": 2,
+          "dev": 101.8
+        },
+        {
+          "skill": "cybersecurity",
+          "median": 131302,
+          "n": 2,
+          "dev": 84.3
+        },
+        {
+          "skill": "communication",
+          "median": 91598,
+          "n": 9,
+          "dev": 28.6
         },
         {
           "skill": "event planning",
@@ -2279,19 +2322,19 @@
           "dev": 28.6
         },
         {
-          "skill": "immunological profiling",
+          "skill": "budgeting",
+          "median": 88750,
+          "n": 2,
+          "dev": 24.6
+        },
+        {
+          "skill": "protein analysis",
           "median": 75558,
           "n": 2,
           "dev": 6.0
         },
         {
-          "skill": "biochemistry",
-          "median": 75558,
-          "n": 2,
-          "dev": 6.0
-        },
-        {
-          "skill": "cryo-electron microscopy",
+          "skill": "structural biology",
           "median": 75558,
           "n": 2,
           "dev": 6.0
@@ -2303,40 +2346,52 @@
           "dev": 6.0
         },
         {
-          "skill": "vaccine development",
+          "skill": "cryo-electron microscopy",
           "median": 75558,
           "n": 2,
           "dev": 6.0
         },
         {
-          "skill": "virology",
+          "skill": "biochemistry",
           "median": 75558,
           "n": 2,
           "dev": 6.0
         },
         {
-          "skill": "communication",
-          "median": 75410,
-          "n": 6,
-          "dev": 5.8
+          "skill": "x-ray crystallography",
+          "median": 75558,
+          "n": 2,
+          "dev": 6.0
         },
         {
-          "skill": "project management",
-          "median": 75410,
-          "n": 4,
-          "dev": 5.8
-        },
-        {
-          "skill": "academic advising",
-          "median": 62500,
+          "skill": "research",
+          "median": 75000,
           "n": 3,
+          "dev": 5.3
+        },
+        {
+          "skill": "data analysis",
+          "median": 74685,
+          "n": 2,
+          "dev": 4.8
+        },
+        {
+          "skill": "higher education",
+          "median": 67500,
+          "n": 4,
+          "dev": -5.3
+        },
+        {
+          "skill": "curriculum development",
+          "median": 62500,
+          "n": 9,
           "dev": -12.3
         },
         {
-          "skill": "teaching",
-          "median": 61250,
-          "n": 8,
-          "dev": -14.0
+          "skill": "multitasking",
+          "median": 60357,
+          "n": 2,
+          "dev": -15.3
         },
         {
           "skill": "public relations",
@@ -2345,13 +2400,7 @@
           "dev": -15.8
         },
         {
-          "skill": "mentoring",
-          "median": 59250,
-          "n": 4,
-          "dev": -16.8
-        },
-        {
-          "skill": "host-pathogen interactions",
+          "skill": "lyme disease",
           "median": 58750,
           "n": 2,
           "dev": -17.5
@@ -2363,7 +2412,7 @@
           "dev": -17.5
         },
         {
-          "skill": "infectious diseases",
+          "skill": "cellular biology",
           "median": 58750,
           "n": 2,
           "dev": -17.5
@@ -2375,34 +2424,34 @@
           "dev": -17.5
         },
         {
-          "skill": "cellular biology",
+          "skill": "cell biology",
           "median": 58750,
           "n": 2,
           "dev": -17.5
         },
         {
-          "skill": "lyme disease",
+          "skill": "molecular biology",
           "median": 58750,
           "n": 2,
           "dev": -17.5
         },
         {
-          "skill": "course development",
-          "median": 58309,
-          "n": 2,
-          "dev": -18.2
-        },
-        {
-          "skill": "administrative support",
-          "median": 57500,
-          "n": 3,
-          "dev": -19.3
+          "skill": "teaching",
+          "median": 58000,
+          "n": 6,
+          "dev": -18.6
         },
         {
           "skill": "lecturing",
           "median": 54798,
           "n": 2,
           "dev": -23.1
+        },
+        {
+          "skill": "training and development",
+          "median": 54309,
+          "n": 2,
+          "dev": -23.8
         }
       ]
     },
@@ -2416,13 +2465,13 @@
       "n_jobs": 11,
       "skills": [
         {
-          "skill": "collaboration",
-          "median": 101231,
-          "n": 4,
-          "dev": 6.6
+          "skill": "research development",
+          "median": 122184,
+          "n": 2,
+          "dev": 28.6
         },
         {
-          "skill": "stakeholder engagement",
+          "skill": "interdisciplinary research",
           "median": 95000,
           "n": 2,
           "dev": 0.0
@@ -2434,9 +2483,15 @@
           "dev": 0.0
         },
         {
-          "skill": "technical writing",
+          "skill": "policy analysis",
           "median": 95000,
-          "n": 5,
+          "n": 2,
+          "dev": 0.0
+        },
+        {
+          "skill": "data analysis",
+          "median": 95000,
+          "n": 4,
           "dev": 0.0
         }
       ]
@@ -2452,15 +2507,27 @@
       "skills": [
         {
           "skill": "sales",
-          "median": 221525,
-          "n": 2,
-          "dev": 12.2
+          "median": 197500,
+          "n": 3,
+          "dev": 0.0
         },
         {
-          "skill": "account management",
-          "median": 221525,
+          "skill": "cold calling techniques",
+          "median": 197500,
           "n": 2,
-          "dev": 12.2
+          "dev": 0.0
+        },
+        {
+          "skill": "salesforce crm management",
+          "median": 197500,
+          "n": 2,
+          "dev": 0.0
+        },
+        {
+          "skill": "prospecting",
+          "median": 197500,
+          "n": 2,
+          "dev": 0.0
         }
       ]
     },
@@ -2470,14 +2537,14 @@
       "skills": []
     },
     "Security": {
-      "cat_median": 167940,
-      "n_jobs": 4,
+      "cat_median": 163396,
+      "n_jobs": 5,
       "skills": [
         {
           "skill": "nist rmf",
           "median": 175448,
           "n": 2,
-          "dev": 4.5
+          "dev": 7.4
         }
       ]
     },
