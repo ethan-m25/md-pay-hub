@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 2273,
-    "active": 1990,
-    "new_today": 63,
+    "count": 2274,
+    "active": 1991,
+    "new_today": 44,
     "links_newly_archived": 0,
-    "updated": "2026-07-25T03:36:35Z",
+    "updated": "2026-07-26T03:33:52Z",
     "state": "Maryland",
     "law": "⚖️ MD HB649 (2024)",
     "currency": "USD",
@@ -70785,6 +70785,33 @@
       "last_seen": "2026-07-24",
       "location_display": "Baltimore, MD",
       "location_city": "Baltimore"
+    },
+    {
+      "role": "Sr. Analyst, Health Plan Performance Operations",
+      "company": "Aledade",
+      "min": 66000,
+      "max": 79000,
+      "location": "Remote (MD)",
+      "source_url": "https://jobs.lever.co/aledade/7d8f3fb5-3155-4b34-b9e0-84dc1e24cfa0",
+      "posted": "2026-07-22",
+      "source_platform": "lever",
+      "currency": "USD",
+      "region": "MD",
+      "_width": 13000,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Data & Analytics",
+      "work_mode": "remote",
+      "salary_type": "annual",
+      "id": "sr--analyst--health--aledade-36832271",
+      "status": "active",
+      "date_added": "2026-07-25",
+      "scraped": "2026-07-25",
+      "last_seen": "2026-07-25",
+      "location_display": "Remote (MD)",
+      "location_city": ""
     }
   ]
 }
