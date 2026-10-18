@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 5392,
-    "active": 4148,
-    "new_today": 33,
-    "links_newly_archived": 1,
-    "updated": "2026-10-17T05:23:16Z",
+    "count": 5393,
+    "active": 4149,
+    "new_today": 1,
+    "links_newly_archived": 0,
+    "updated": "2026-10-18T05:22:16Z",
     "state": "Maryland",
     "law": "⚖️ MD HB649 (2024)",
     "currency": "USD",
@@ -155748,6 +155748,32 @@
       "last_seen": "2026-10-17",
       "location_display": "Remote (MD)",
       "location_city": ""
+    },
+    {
+      "role": "Manager - Asset Protection - Canton Crossing Rack",
+      "company": "Nordstrom Inc",
+      "min": 57000,
+      "max": 91500,
+      "location": "Baltimore, MD",
+      "source_url": "https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Baltimore-MD/Manager---Asset-Protection---Canton-Crossing-Rack_R-887788",
+      "posted": "2026-10-18",
+      "currency": "USD",
+      "region": "MD",
+      "_width": 34500,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Management",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "manager---asset-prot-nordstrom-inc-00936909",
+      "status": "active",
+      "date_added": "2026-10-18",
+      "scraped": "2026-10-18",
+      "last_seen": "2026-10-18",
+      "location_display": "Baltimore, MD",
+      "location_city": "Baltimore"
     }
   ]
 }
