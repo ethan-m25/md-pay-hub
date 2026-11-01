@@ -1,10 +1,10 @@
 {
   "meta": {
-    "count": 5846,
-    "active": 4469,
-    "new_today": 40,
+    "count": 5847,
+    "active": 4470,
+    "new_today": 1,
     "links_newly_archived": 0,
-    "updated": "2026-10-31T04:57:32Z",
+    "updated": "2026-11-01T04:53:16Z",
     "state": "Maryland",
     "law": "⚖️ MD HB649 (2024)",
     "currency": "USD",
@@ -167985,6 +167985,32 @@
       "last_seen": "2026-10-31",
       "location_display": "Columbia, MD",
       "location_city": "Columbia"
+    },
+    {
+      "role": "Associate Software Engineer - Hollywood (MD)",
+      "company": "CORP-Corporate Office",
+      "min": 76200,
+      "max": 114400,
+      "location": "Maryland, MD",
+      "source_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer---Hollywood--MD-_R10258018",
+      "posted": "2026-10-31",
+      "currency": "USD",
+      "region": "MD",
+      "_width": 38200,
+      "_compliant": true,
+      "_nonCompliant": false,
+      "_exempt": false,
+      "_federal": false,
+      "category": "Engineering",
+      "work_mode": "unknown",
+      "salary_type": "annual",
+      "id": "associate-software-e-corp-corporate--08796501",
+      "status": "active",
+      "date_added": "2026-11-01",
+      "scraped": "2026-11-01",
+      "last_seen": "2026-11-01",
+      "location_display": "Statewide (MD)",
+      "location_city": ""
     }
   ]
 }
